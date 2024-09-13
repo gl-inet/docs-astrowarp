@@ -100,7 +100,8 @@ Reference:
 ## Jenkins integration
 
 ```
-# go to docs-build path to get latest git commit
+whoami
+# go to docs-build-astrowarp path to get latest git commit
 # incase some guys build on their computer
 cd /root/docs-build-astrowarp/
 git reset --hard HEAD
@@ -109,19 +110,19 @@ git pull
 cd /root/docs-venv/
 . ./bin/activate
 # git pull latest commit
-cd docs-astrowarp/
+cd docs-astrowarp
 git checkout master
 git reset --hard HEAD
 git pull
-# build docs to /root/docs-build-astrowarp/
+# build docs to /root/docs-build-astrowarp/en/
 mkdocs build
 # deactivate virtualenv
 deactivate
 echo "finish building"
 #
-cd /root/docs-build/
+cd /root/docs-build-astrowarp/
 git add .
-git commit -m "docs4 build"
+git commit -m "docs astrowarp build"
 git push
 echo "done"
 ```
