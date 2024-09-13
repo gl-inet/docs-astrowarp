@@ -1,0 +1,61 @@
+site_name: AstroWarp Docs
+site_description: Documentation for AstroWarp
+site_author: AstroWarp
+site_url: https://docs.astrowarp.net/en/
+site_dir: /root/docs-build-astrowarp/en/
+copyright: Copyright &copy; 2024 GL Intelligence, Inc
+
+theme: 
+  name: material
+  logo: images/astrowarp.svg
+  custom_dir: overrides
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+  favicon: images/favicon.ico
+
+# Plugins
+plugins:
+  - search
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://www.astrowarp.net/
+  version:
+    provider: mike
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css
+  # we can use the cdn or files
+  # - stylesheets/photoswipe.min.css
+  # - stylesheets/default-skin.min.css
+  - stylesheets/extra.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js
+  # we can use the cdn or files
+  # - javascripts/photoswipe.min.js
+  # - javascripts/photoswipe-ui-default.min.js
+  - javascripts/extra.js
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - toc:
+      permalink: true
+  - admonition
+
+nav:
+  - Home: index.md
+  - Interface Guide:
+    - Overview: interface_guide/index.md
+  - Turorials:
+    - Overview: tutorials/index.md
