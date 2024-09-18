@@ -55,7 +55,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Interface Guide:
-    - Overview: interface_guide/index.md
+  - Quick Start:
+    - Overview: quick_start/index.md
   - Turorials:
     - Overview: tutorials/index.md
