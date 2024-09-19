@@ -85,5 +85,6 @@ Once access is granted, a virtual IP will be automatically assigned. You can vie
 **Q: What should I do if I cannot access Remote Desktop after following the setup steps?**
 **A:** First, ensure you are using the virtual IP for access and that the username and password are correct. If the issue persists, check the firewall settings regarding permissions for the [Remote Desktop application](https://answers.microsoft.com/en-us/windows/forum/all/windows-firewall-blocks-remote-desktop/e9231961-f579-463d-80be-93e980728a77).
 
+---
 
-
+Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.

@@ -89,4 +89,8 @@ Once set, a small area icon will appear on the side of the connection near Home.
 **A:** After setting the exit node, the network may briefly disconnect, causing devices to be unable to access service websites and the internet. Please wait a moment (no more than 1 minute) for the connection to restore.
 
 
+---
+
+Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.
+
 

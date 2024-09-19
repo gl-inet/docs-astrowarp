@@ -5,6 +5,7 @@ This document outlines the steps to create a remote network that connects resour
 ![](../images/scenario_remote_networking_topology.png)
 
 ## Preparation
+
 1. Router Compatibility: Confirm that your router model falls under the following list: 
     Note: Models can be different, such as combining Beryl AX (GL-MT3000) and Flint 2 (GL-MT6000).
 
@@ -43,8 +44,6 @@ This document outlines the steps to create a remote network that connects resour
   *Note: Every router in the network must be signed in to the GL.iNet account.*
 
 4. Connect the devices you need to access to the router or the upstream network of the router.
-
-
 
 ## **Creating the Network**
 
@@ -88,5 +87,6 @@ Once access is granted, a virtual IP will be automatically assigned. You can vie
 
 **A:** First, ensure you are using the virtual IP for access and that the username and password are correct. If the issue persists, please check the firewall settings on the device being accessed.
 
+---
 
-
+Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.

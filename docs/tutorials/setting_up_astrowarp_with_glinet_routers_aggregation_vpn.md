@@ -2,9 +2,8 @@
 
 This document will guide you in creating an Aggregated VPN link for internet access. By using an Aggregated VPN, users can enjoy a better online experience in certain scenarios.
 
-
-
 ## Preparation
+
 1. Router Compatibility: Confirm that your router model falls under the following list: 
 
   **1.1 Supported Firmware Versions**
@@ -27,11 +26,7 @@ This document will guide you in creating an Aggregated VPN link for internet acc
 
  Slate AX (GL-AXT1800) Coming soon
 
-
-
 2. Firmware Version: Ensure the firmware version is 4.7.0 or higher.
-
-   
 
 3. Login to GL.iNet Account: Follow the instructions below to log in to your GL.iNet account and bind your device.
 
@@ -46,8 +41,6 @@ This document will guide you in creating an Aggregated VPN link for internet acc
   *Note: Every router in the network must be signed in to the GL.iNet account.*
 
 4. Testing Configuration: For testing purposes, you may configure the router to use both repeater and tethering modes (this step can be skipped if the environment does not allow it).
-
-
 
 ## **Creating the Network**
 
@@ -83,5 +76,6 @@ You can check if our public IP address matches the public IP address of the aggr
 
 **A:** First, check if your speed has already reached the physical limit. For Spitz AX (GL-X3000)/Puli AX (GL-XE3000) devices, the aggregated physical limit is around 500 Mbps. The speed aggregation feature does not apply to scenarios with significant differences in link quality, such as bandwidth and latency. We do not recommend using Ethernet and cellular networks for aggregated connections.
 
+---
 
-
+Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.
