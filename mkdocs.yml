@@ -59,3 +59,7 @@ nav:
     - Overview: quick_start/index.md
   - Turorials:
     - Overview: tutorials/index.md
+    - Remote access: tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md
+    - Remote networking: tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md
+    - Keep IP home: tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md
+    - Aggregation VPN: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
