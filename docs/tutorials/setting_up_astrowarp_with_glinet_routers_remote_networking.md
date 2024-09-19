@@ -1,4 +1,4 @@
-# Setting Up AstroWarp with GL.iNet Routers: **Remote Networking**
+# Setting Up AstroWarp with GL.iNet Routers: Remote Networking
 
 This document outlines the steps to create a remote network that connects resources from two offices, enabling mutual access.
 
