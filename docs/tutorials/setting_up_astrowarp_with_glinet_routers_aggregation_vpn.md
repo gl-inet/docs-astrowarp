@@ -2,7 +2,7 @@
 
 This document will guide you in creating an Aggregated VPN link for internet access. By using an Aggregated VPN, users can enjoy a better online experience in certain scenarios.
 
-
+ ![](../images/scenario_bandwidth_bonding.png)
 
 ## Preparation
 1. Router Compatibility: Confirm that your router model falls under the following list: 

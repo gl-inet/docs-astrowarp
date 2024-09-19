@@ -2,7 +2,7 @@
 
 This document outlines how to use your home network as an internet exit while traveling. By accessing the internet through your home network, you can ensure security and privacy while bypassing some traditional VPN limitations. For example, many services like Netflix restrict the use of VPNs in various situations. However, if you access the internet through your home network, you will not encounter these restrictions.
 
-![](../images/scenario_keep_ip_home_topology.png)
+![](../images/scenario_keep_ip_home_topology.jpg)
 
 ## Preparation
 1. Router Compatibility: Confirm that your router model falls under the following list: 

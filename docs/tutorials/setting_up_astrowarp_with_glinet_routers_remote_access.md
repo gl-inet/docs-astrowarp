@@ -2,7 +2,7 @@
 
 This document outlines the steps to create a remote access scenario, allowing you to access your office computer from home.
 
-![](../images/scenario_remote_access_topology.png)
+![](../images/scenario_remote_access_topology.jpg)
 
 ## Preparation
 1. Router Compatibility: Confirm that your router model falls under the following list: 

@@ -2,7 +2,7 @@
 
 This document outlines the steps to create a remote network that connects resources from two offices, enabling mutual access.
 
-![](../images/scenario_remote_networking_topology.png)
+![](../images/scenario_remote_networking_topology.jpg)
 
 ## Preparation
 1. Router Compatibility: Confirm that your router model falls under the following list: 
