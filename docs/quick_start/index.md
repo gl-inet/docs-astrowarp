@@ -2,7 +2,7 @@
 
 ## **Create a basic network**
 
-For first-time users, we recommend setting up your AstroWarp account based on your specific needs. Here are some network setup options to choose from, depending on your scenario:
+For first-time users, we recommend setting up your AstroWarp network based on your specific needs. Here are some network setup options to choose from, depending on your scenario:
 
 [**Setting Up AstroWarp with GL.iNet Routers: Remote Access**](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md)
 
