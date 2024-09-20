@@ -122,3 +122,9 @@ In a few cases, the recommended server may be subject to some restrictions. If n
 
 ![](../images/astrowarp_node_exchange.gif)
 
+---
+
+  
+
+  Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.
+
