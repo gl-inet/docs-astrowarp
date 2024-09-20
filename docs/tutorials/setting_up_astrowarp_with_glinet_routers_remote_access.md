@@ -4,45 +4,40 @@ This document outlines the steps to create a remote access scenario, allowing yo
 
 ![](../images/scenario_remote_access_topology.jpg)
 
-## Preparation
-1. Router Compatibility: Confirm that your router model falls under the following list: 
-    Note: Models can be different, such as combining Beryl AX (GL-MT3000) and Flint 2 (GL-MT6000).
+## **Preparation**
+* Router Compatibility: Confirm that your router model falls under the following list: 
 
-  **1.1 Supported Firmware Versions**
 
-  Minimum Required Firmware Version: 4.7.0 or higher
+| Supported Models               | Firmware version |
+| ------------------------------ | ---------------- |
+| Spitz AX (GL-X3000)            | 4.7.0 or higher  |
+| Puli AX (GL-XE3000)            | 4.7.0 or higher  |
+| Beryl AX (GL-MT3000)           | 4.7.0 or higher  |
+| Flint 2 (GL-MT6000)            | 4.7.0 or higher  |
+| Brume 2 (GL-MT2500/GL-MT2500A) | 4.7.0 or higher  |
+| Flint (GL-AX1800)              | Coming soon      |
+| Slate AX (GL-AXT1800)          | Coming soon      |
 
-  **1.2 Supported Models**
+*Note:  Models can be different, such as combining Beryl AX (GL-MT3000) and Flint 2 (GL-MT6000).*
 
-  Spitz AX (GL-X3000)
 
-  Puli AX (GL-XE3000)
 
-  Beryl AX (GL-MT3000)
 
-  Flint 2 (GL-MT6000)
-
- Brume 2 (GL-MT2500/GL-MT2500A)
-
- Flint (GL-AX1800) Coming soon
-
- Slate AX (GL-AXT1800) Coming soon
-
-2. Firmware Version: Ensure the firmware version is 4.7.0 or higher.
-
-3. Login to GL.iNet Account: Follow the instructions below to log in to your GL.iNet account and bind your device.
+* Follow the instructions below to log in to your GL.iNet account and bind your device.
 
   **Step 1:** Access your router’s management interface and click on the cloud icon at the top of the page to enable it.
 
   ![](../images/router_top_cloud_icon.png)
 
-  **Step 2:** Login or Register Your GL Account
+  **Step 2:** Log in to your GL account or register for a new one
 
 ![](../images/router_login_cloud.png)
 
   *Note: Every router in the network must be signed in to the GL.iNet account.*
 
-4. Connect the devices you need to access to the router or the upstream network of the router.
+
+
+* Connect the devices you need to access to the router or the upstream network of the router.
 
 
 

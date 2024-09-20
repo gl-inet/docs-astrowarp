@@ -57,7 +57,7 @@ nav:
   - Home: index.md
   - Quick Start:
     - Overview: quick_start/index.md
-  - Turorials:
+  - Tutorials:
     - Overview: tutorials/index.md
     - Remote access: tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md
     - Remote networking: tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md

@@ -1,4 +1,4 @@
-# Turorials
+# Tutorials
 
 ## Scenario guide
 
@@ -9,3 +9,5 @@
 [Setting Up AstroWarp with GL.iNet Routers: Keep IP home](setting_up_astrowarp_with_glinet_routers_keep_ip_home.md)
 
 [Setting Up AstroWarp with GL.iNet Routers: Aggregation VPN](setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md)
+
+[How to Implement Remote Desktop on a Computer](how_to_implement_remote_desktop_on_a_computer.md)

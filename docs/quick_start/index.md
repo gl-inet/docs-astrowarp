@@ -1,22 +1,32 @@
 # Quick start
 
-## Create a basic network
+## **Create a basic network**
 
-Before using AstroWarp, we need to create our own network. The following instructions include some basic network creation guide. You can choose the one that suits your scenario to start with
+For first-time users, we recommend setting up your AstroWarp account based on your specific needs. Here are some network setup options to choose from, depending on your scenario:
 
-[Setting Up AstroWarp with GL.iNet Routers: Remote Access](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md)
+[**Setting Up AstroWarp with GL.iNet Routers: Remote Access**](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md)
 
-[Setting Up AstroWarp with GL.iNet Routers: Keep IP home](../tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md)
+​		If you need to access your devices remotely, follow this guide.
 
-[Setting Up AstroWarp with GL.iNet Routers: Remote networking](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md)
+[**Setting Up AstroWarp with GL.iNet Routers: Keep IP home**](../tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md)
 
-[Setting Up AstroWarp with GL.iNet Routers: Aggregation VPN](../tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md)
+​		This option is for users who want to maintain their home IP address while away.
+
+[**Setting Up AstroWarp with GL.iNet Routers: Remote networking**](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md)
+
+​		Ideal for users who need to set up a network between different locations.
+
+[**Setting Up AstroWarp with GL.iNet Routers: Aggregation VPN**](../tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md)
+
+​		For those looking to combine multiple connections to increase speed and reliability.
+
+<br>
 
 After completing the creation of the basic network, we can continue reading to complete more complex operations.
 
 
 
-## Router node management
+## **Router node management**
 
 ### Add router nodes
 
@@ -42,7 +52,7 @@ If the router node is no longer needed, we can delete it.
 
 
 
-## Access permission settings
+## **Access permission settings**
 
 ### Node access permissions
 
@@ -92,7 +102,7 @@ This domain name is resolved locally by the router, so please do not set DNS enc
 
 
 
-## Exit Node Settings
+## **Exit Node Settings**
 
 Router nodes can be used as Internet exits.
 
@@ -104,7 +114,7 @@ Exit nodes are not used for any router nodes by default, so we need to set wheth
 
 
 
-## Cloud Node Management
+## **Cloud Node Management**
 
 ### Switch Cloud Node Location
 
