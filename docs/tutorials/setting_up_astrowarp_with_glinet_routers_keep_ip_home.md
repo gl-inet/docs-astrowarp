@@ -1,4 +1,4 @@
-# Setting Up AstroWarp with GL.iNet Routers: Remote Access
+# Setting Up AstroWarp with GL.iNet Routers: Keep Your Home IP
 
 This document outlines how to use your home network as an internet exit while traveling. By accessing the internet through your home network, you can ensure security and privacy while bypassing some traditional VPN limitations. For example, many services like Netflix restrict the use of VPNs in various situations. However, if you access the internet through your home network, you will not encounter these restrictions.
 
