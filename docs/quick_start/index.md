@@ -8,11 +8,11 @@ For first-time users, we recommend setting up your AstroWarp network based on yo
 
 ​		If you need to access your devices remotely, follow this guide.
 
-[**Setting Up AstroWarp with GL.iNet Routers: Keep IP home**](../tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md)
+[**Setting Up AstroWarp with GL.iNet Routers: Keep Your Home IP**](../tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md)
 
 ​		This option is for users who want to maintain their home IP address while away.
 
-[**Setting Up AstroWarp with GL.iNet Routers: Remote networking**](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md)
+[**Setting Up AstroWarp with GL.iNet Routers: Remote Networking**](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md)
 
 ​		Ideal for users who need to set up a network between different locations.
 
