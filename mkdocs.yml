@@ -63,3 +63,5 @@ nav:
     - Remote networking: tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md
     - Keep IP home: tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md
     - Aggregation VPN: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
+  - FAQ:
+    - Overview: faq/index.md

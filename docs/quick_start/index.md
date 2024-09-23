@@ -50,9 +50,19 @@ If the router node is no longer needed, we can delete it.
 
 
 
+### Disable astrowarp services
+
+If you need to disable the astrowarp service on your router, you can turn off the virtual network connection in your router's details settings.
+
+![](../images/router_disable_astrowarp.gif)
+
+
+
 
 
 ## **Access permission settings**
+
+Node access and resource access constitute the permission control mechanism of astrowarp, and the device is only allowed to access if both permissions are set correctly.
 
 ### Node access permissions
 
@@ -78,7 +88,7 @@ Or you can quickly add resources through the + sign on the right of the node.
 
 
 
-#### Virtual IP
+#### Accessible address (Virtual IP)
 
 Once a resource is added, a virtual IP will be automatically assigned for access, virtual IP can effectively avoid subnet conflicts and IP changes between routers.
 
@@ -122,9 +132,19 @@ In a few cases, the recommended server may be subject to some restrictions. If n
 
 ![](../images/astrowarp_node_exchange.gif)
 
----
 
-  
+
+## **Network Management**
+
+### Stop or start network
+
+![](../images/astrowarp_stop_or_start_network.gif)
+
+
+
+___
+
+
 
   Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.
 
