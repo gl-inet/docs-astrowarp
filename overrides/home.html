@@ -1,6 +1,6 @@
 
 {% extends "main.html" %}
-
+{% include "ga_script.html" %}
 <!-- Render hero under tabs -->
 {% block tabs %}
   {{ super() }}
@@ -1084,15 +1084,6 @@ video {
     </section>
 
 </div>
-<script type="text/plain" data-category="analytics"
-  data-src="https://www.googletagmanager.com/gtag/js?id=G-YJVZYVMXEP"></script>
-<script type="text/plain" data-category="analytics">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  
-  gtag('config', 'G-YJVZYVMXEP');
-  </script>
 {% endblock %}
 
 <!-- Content -->
