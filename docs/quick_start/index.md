@@ -30,25 +30,25 @@ After completing the creation of the basic network, we can continue reading to c
 
 You can add more router nodes to the basic network to enrich your application.
 
-![](../images/astrowarp_add_router_node.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_add_router_node.gif)
 
 ### Node renaming
 
 To make the network clearer, we can set our favorite names for the nodes.
 
-![](../images/astrowarp_rename_node.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_rename_node.gif)
 
 ### Delete router nodes
 
 If the router node is no longer needed, we can delete it.
 
-![](../images/astrowarp_delete_node.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_delete_node.gif)
 
 ### Disable astrowarp services
 
 If you need to disable the astrowarp service on your router, you can turn off the virtual network connection in your router's details settings.
 
-![](../images/router_disable_astrowarp.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/router_disable_astrowarp.gif)
 
 ## **Access permission settings**
 
@@ -58,11 +58,11 @@ Node access and resource access constitute the permission control mechanism of a
 
 Draw a line on the topology map to establish a network connection between two nodes.
 
-![](../images/astrowarp_node_permission.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_permission.gif)
 
 By clicking on the connection, we can set the access permissions between nodes through the permission switch on the right.
 
-![](../images/astrowarp_node_permission_setting.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_permission_setting.gif)
 
 **Notice:** when you try to connect a router to a cloud node, it means that the current router uses the cloud node as the aggregate VPN exit. Currently, only EXCLUSIVE server support the aggregate VPN function.
 
@@ -70,11 +70,11 @@ By clicking on the connection, we can set the access permissions between nodes t
 
 You can add or delete resources through the details interface of the node.
 
-![](../images/astrowarp_node_add_resource.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_add_resource.gif)
 
 Or you can quickly add resources through the + sign on the right of the node.
 
-![](../images/astrowarp_node_add_resource_shortcut.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_add_resource_shortcut.gif)
 
 #### Accessible address (Virtual IP)
 
@@ -92,7 +92,7 @@ The upper limit of virtual IP allocation is 254. If this number is exceeded, you
 
 You can set a domain name for **local** access for any resource. The domain name suffix is always atwp.net. The fixed suffix is for easier certificate issuance.
 
-![](../images/astrowarp_resource_set_domain.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_resource_set_domain.gif)
 
 This domain name is resolved locally by the router, so please do not set DNS encryption on your access end or point the DNS service to other addresses.
 
@@ -100,11 +100,11 @@ This domain name is resolved locally by the router, so please do not set DNS enc
 
 Router nodes can be used as Internet exits.
 
-![](../images/astrowarp_set_exit_node.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_set_exit_node.gif)
 
 Exit nodes are not used for any router nodes by default, so we need to set whether other routers use this exit.
 
-![](../images/astrowarp_use_exit_node.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_use_exit_node.gif)
 
 ## **Cloud Node Management**
 
@@ -112,13 +112,13 @@ Exit nodes are not used for any router nodes by default, so we need to set wheth
 
 In a few cases, the recommended server may be subject to some restrictions. If necessary, you can switch to a different server location.
 
-![](../images/astrowarp_node_exchange.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_exchange.gif)
 
 ## **Network Management**
 
 ### Stop or start network
 
-![](../images/astrowarp_stop_or_start_network.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_stop_or_start_network.gif)
 
 ___
 
