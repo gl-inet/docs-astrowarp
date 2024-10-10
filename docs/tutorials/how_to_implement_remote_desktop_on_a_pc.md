@@ -4,7 +4,7 @@ With AstroWarp, you can establish secure remote desktop connections to your PCs 
 
 ## Enable Remote Desktop
 
-Please fellow the guide here to enable remote desktop on your PC: [Enable Remote Desktop on Windows](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c){target="_blank"}.
+Please follow the guide here to enable remote desktop on your PC: [Enable Remote Desktop on Windows](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c){target="_blank"}.
 
 ## Find the Username
 
