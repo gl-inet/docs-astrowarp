@@ -5,9 +5,8 @@ This document outlines how to use your home network as an internet exit while tr
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/scenario_keep_ip_home_topology.jpg){class="glboxshadow"}
 
 ## **Preparation**
-Before starting the configuration, please complete the [**preparations**](preparation_work.md).
 
-</br>
+Before starting the configuration, please complete the [**preparations**](preparation_work.md).
 
 ## **Creating the Network**
 

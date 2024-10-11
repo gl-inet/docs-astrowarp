@@ -8,8 +8,6 @@ This document outlines the steps to create a remote network that connects resour
 
 Before starting the configuration, please complete the [**preparations**](preparation_work.md).
 
-</br>
-
 ## **Creating the Network**
 
 **Step 1:** Set a Network Name: Choose a name for your network, such as "mynet."
