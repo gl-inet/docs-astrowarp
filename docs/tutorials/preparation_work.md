@@ -4,15 +4,15 @@
 
 * Router Compatibility: Confirm that your router model falls under the following list: 
 
-| Supported Models               | Firmware version |
-| ------------------------------ | ---------------- |
-| Spitz AX (GL-X3000)            | 4.7.0 or higher  |
-| Puli AX (GL-XE3000)            | 4.7.0 or higher  |
-| Beryl AX (GL-MT3000)           | 4.7.0 or higher  |
-| Flint 2 (GL-MT6000)            | 4.7.0 or higher  |
-| Brume 2 (GL-MT2500/GL-MT2500A) | 4.7.0 or higher  |
-| Flint (GL-AX1800)              | Coming soon      |
-| Slate AX (GL-AXT1800)          | Coming soon      |
+| Supported Models               | Version         | Firmware Download                                            |
+| ------------------------------ | --------------- | ------------------------------------------------------------ |
+| Spitz AX (GL-X3000)            | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/x3000/?type=beta) |
+| Puli AX (GL-XE3000)            | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/xe3000/?type=beta) |
+| Beryl AX (GL-MT3000)           | 4.7.0 or highe  | [Beta Firmware](https://dl.gl-inet.com/router/mt3000/?type=beta) |
+| Flint 2 (GL-MT6000)            | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/mt6000/?type=beta) |
+| Brume 2 (GL-MT2500/GL-MT2500A) | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/mt2500/?type=beta) |
+| Flint (GL-AX1800)              | Coming soon     |                                                              |
+| Slate AX (GL-AXT1800)          | Coming soon     |                                                              |
 
 ## **Bind router to GL account**
 
