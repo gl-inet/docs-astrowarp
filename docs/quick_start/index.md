@@ -56,7 +56,7 @@ Node access and resource access constitute the permission control mechanism of a
 
 ### Node access permissions
 
-#### Add  permissions
+#### Add permissions
 
 Draw a line on the topology map to establish a network connection between two nodes.
 
@@ -68,12 +68,11 @@ By clicking on the connection, we can set the access permissions between nodes t
 
 **Notice:** when you try to connect a router to a cloud node, it means that the current router uses the cloud node as the aggregate VPN exit. Currently, only EXCLUSIVE server support the aggregate VPN function.
 
-#### Remove  permissions
+#### Remove permissions
+
 You can also select and delete connections that are no longer needed.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/deleate_node_connection.png)
-
-
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/deleate_node_connection.png){class="glboxshadow"}
 
 ### Resource access permissions
 
