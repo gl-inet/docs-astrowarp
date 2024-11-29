@@ -15,3 +15,5 @@ Before starting the configuration, please complete the [**preparations**](prepar
 [How to Implement Remote Desktop on a Computer](how_to_implement_remote_desktop_on_a_pc.md)
 
 [How to Stream Games Using Remote Desktop](game_stream.md)
+
+[How to Using Astrowarp Client](use_astrowarp_app.md)
