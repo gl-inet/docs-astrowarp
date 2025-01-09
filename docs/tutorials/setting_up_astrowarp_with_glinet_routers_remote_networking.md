@@ -2,49 +2,45 @@
 
 This document outlines the steps to create a remote network that connects resources from two offices, enabling mutual access.
 
-![](../images/scenario_remote_networking_topology.jpg)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/scenario_remote_networking_topology.jpg){class="glboxshadow"}
 
 ## **Preparation**
+
 Before starting the configuration, please complete the [**preparations**](preparation_work.md).
-
-</br>
-
 
 ## **Creating the Network**
 
 **Step 1:** Set a Network Name: Choose a name for your network, such as "mynet."
 
-![](../images/astrowarp_give_name_for_network.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/astrowarp_give_name_for_network.png){class="glboxshadow"}
 
 **Step 2:** Select the Site to Site Scenario.
 
-![](../images/select_s2s_scenario.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/select_s2s_scenario.png){class="glboxshadow"}
 
 **Step 3:** Choose Routers and Associated Server Locations
 
-![](../images/astrowarp_select_routers.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/astrowarp_select_routers.png){class="glboxshadow"}
 
 **Step 4:** If you choose a non-free service, you will enter the payment step. Complete the payment according to the guide, and the following topology will appear.
 
-![](../images/astrowarp_s2s_inited_topology.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/astrowarp_s2s_inited_topology.png){class="glboxshadow"}
 
 **Step 5:** Click on the connection line between the two routers to ensure that bidirectional access permissions are enabled.
 
-![](../images/astrowarp_set_resource_and_permission_remote_networking.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/astrowarp_set_resource_and_permission_remote_networking.png){class="glboxshadow"}
 
 **Step 6:** Click the plus sign next to Office1 and Office 2, select the devices you wish to access mutually, and confirm.
 
-![](../images/astrowarp_select_resource.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/astrowarp_select_resource.png){class="glboxshadow"}
 
 Once access is granted, a virtual IP will be automatically assigned. You can view this by clicking on the corresponding router in the topology diagram.
 
-![](../images/astrowarp_check_virtual_ip.png)
-
-
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/astrowarp_check_virtual_ip.png){class="glboxshadow"}
 
 *Note: Access between devices will occur via the virtual IP. You can perform a simple test using the ping command.*
 
-![](../images/ping_result.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/ping_result.png){class="glboxshadow"}
 
 ## **FAQ** 
 

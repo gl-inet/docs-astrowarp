@@ -1,7 +1,5 @@
 # FAQ
 
-
-
 ### **Remote access failed**
 
 * Check the [node access and resource access settings](../quick_start/index.md/#access-permission-settings) of the network topology map to confirm that the device is allowed to be accessed.
@@ -12,7 +10,7 @@
 
 * Try to [switch the server node](../quick_start/index.md/#switch-cloud-node-location).
 
-  ---
+---
 
 ### **Unable to access the resource domain name**
 
@@ -20,7 +18,7 @@
 
 * The resource domain name is resolved locally by the router. Please make sure that DNS encryption is not enabled on the device side and the DNS server is not pointed to an encrypted address such as 1.1.1.1.
 
-  ---
+---
 
 ### **The device is not in the resource list**
 
@@ -28,7 +26,7 @@
 
 * If there are multiple layers of NAT between the accessed device and the router, it needs to be added manually. This feature will be supported in version 0.6.0.
 
-  ---
+---
 
 ### **The original IP address of the device is inaccessible**
 
@@ -44,9 +42,6 @@
 
 * Try to [disable the astrowarp](../quick_start/index.md/#disable-astrowarp-services) service on the router.
 
-  ---
+---
 
-
-
-  Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.
-
+Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.

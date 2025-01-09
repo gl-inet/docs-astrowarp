@@ -2,38 +2,37 @@
 
 This document will guide you in creating an Aggregated VPN link for internet access. By using an Aggregated VPN, users can enjoy a better online experience in certain scenarios.
 
- ![](../images/scenario_bandwidth_bonding.png)
+ ![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/scenario_bandwidth_bonding.png){class="glboxshadow"}
 
 ## **Preparation**
-Before starting the configuration, please complete the [**preparations**](preparation_work.md).
 
-</br>
+Before starting the configuration, please complete the [**preparations**](preparation_work.md).
 
 ## **Creating the Network**
 
 **Step 1:** Set a Network Name: Choose a name for your network, such as "mynet."
 
-![](../images/astrowarp_give_name_for_network.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_give_name_for_network.png){class="glboxshadow"}
 
 **Step 2:** Select the Connection Aggregation Scenario.
 
-![](../images/select_aggregation_scenario.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/select_aggregation_scenario.png){class="glboxshadow"}
 
 **Step 3:** Choose the Location and Traffic Plan.
 
-![](../images/astrowarp_choose_location_and_traffic_plan.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_choose_location_and_traffic_plan.png){class="glboxshadow"}
 
 **Step 4:** Select Routers for Aggregated VPN.
 
-![](../images/astrowarp_select_aggregated_routers.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_select_aggregated_routers.png){class="glboxshadow"}
 
 **Step 5:**After completing the payment, the following topology connection will be generated.
 
-![](../images/astrowarp_aggregated_inited_topology.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_aggregated_inited_topology.png)
 
-You can check if our public IP address matches the public IP address of the aggregation node via [ipaddress.my](https://www.ipaddress.my/).
+You can check if our public IP address matches the public IP address of the aggregation node via [ipaddress.my](https://www.ipaddress.my/){target="_blank"}.
 
-![](../images/astrowarp_check_ip_address.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_check_ip_address.png){class="glboxshadow"}
 
 **Step 6:** Once confirmed the IP address, you can test different application scenarios. For example, you can try disconnecting the router's tethering network connection during a video conference to observe if the call is interrupted due to network issues.
 

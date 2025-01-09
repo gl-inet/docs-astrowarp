@@ -60,14 +60,16 @@ nav:
   - Quick Start: 
     - Overview: quick_start/index.md
     # - Quick Start: quick_start/index.md
-    - Tutorials: 
+    - Tutorials:
       - Overview: tutorials/index.md
       - Remote Access: tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md
-      : setting_up_astrowarp_with_glinet_routers_game_stream.md
       - Remote Networking: tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md
       - Keep Your Home IP: tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md
       - Aggregation VPN: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
-    - FAQ: faq/index.md
+      - Remote Desktop: tutorials/how_to_implement_remote_desktop_on_a_pc.md
+      - Game Streaming: tutorials/game_stream.md
+    - FAQ:
+    - Overview: faq/index.md
   # - Quick Start:
   #   - Overview: quick_start/index.md
   # - Tutorials:

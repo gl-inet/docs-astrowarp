@@ -2,46 +2,41 @@
 
 This document outlines how to use your home network as an internet exit while traveling. By accessing the internet through your home network, you can ensure security and privacy while bypassing some traditional VPN limitations. For example, many services like Netflix restrict the use of VPNs in various situations. However, if you access the internet through your home network, you will not encounter these restrictions.
 
-![](../images/scenario_keep_ip_home_topology.jpg)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/scenario_keep_ip_home_topology.jpg){class="glboxshadow"}
 
 ## **Preparation**
+
 Before starting the configuration, please complete the [**preparations**](preparation_work.md).
-
-</br>
-
-
 
 ## **Creating the Network**
 
 **Step 1:** Set a Network Name: Choose a name for your network, such as "mynet."
 
-![](../images/astrowarp_give_name_for_network.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_give_name_for_network.png){class="glboxshadow"}
 
 **Step 2:** Select the Site to Site Scenario.
 
-![](../images/select_s2s_scenario.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/select_s2s_scenario.png){class="glboxshadow"}
 
 **Step 3:** Choose Routers and Associated Server Locations
 
-![](../images/astrowarp_select_routers.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_select_routers.png){class="glboxshadow"}
 
 **Step 4:** If you choose a non-free service, you will enter the payment step. Complete the payment according to the guide, and the following topology will appear.
 
-![](../images/astrowarp_s2s_inited_topology.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_s2s_inited_topology.png){class="glboxshadow"}
 
 **Step 5:** Configure the Home node as the exit node, and set the Travel node to use this exit.
 
-![](../images/astrowarp_set_exit_node.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_set_exit_node.png){class="glboxshadow"}
 
 Once set, a small area icon will appear on the side of the connection near Home.
 
-![](../images/astrowarp_force_exit_node_icon.png)
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_force_exit_node_icon.png){class="glboxshadow"}
 
-**Step 6:** Open a browser on the Travel side and check if our public IP address matches that of the home network via [ipaddress.my](https://www.ipaddress.my/).
+**Step 6:** Open a browser on the Travel side and check if our public IP address matches that of the home network via [ipaddress.my](https://www.ipaddress.my/){target="_blank"}.
 
-![](../images/astrowarp_check_ip_address.png)
-
-
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_check_ip_address.png){class="glboxshadow"}
 
 ## **FAQ** 
 
@@ -52,5 +47,3 @@ Once set, a small area icon will appear on the side of the connection near Home.
 ---
 
 Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.
-
-
