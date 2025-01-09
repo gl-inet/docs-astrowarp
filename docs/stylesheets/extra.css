@@ -76,3 +76,10 @@ img.glboxshadow {
     width: 90%;
   }
 }
+
+.md-tabs {
+  display: none!important;
+}
+.md-nav__item--section>.md-nav__link{
+  font-weight: normal!important;
+}
