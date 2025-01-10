@@ -1,47 +1,36 @@
-# Setting Up AstroWarp with GL.iNet Routers: Aggregation VPN
+<!-- # Setting Up AstroWarp with GL.iNet Routers: Aggregation VPN -->
 
 This document will guide you in creating an Aggregated VPN link for internet access. By using an Aggregated VPN, users can enjoy a better online experience in certain scenarios.
 
- ![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/scenario_bandwidth_bonding.png){class="glboxshadow"}
-
-## **Preparation**
-
-Before starting the configuration, please complete the [**preparations**](preparation_work.md).
+![](../images/tutorials/connection_aggregation/1.png)
 
 ## **Creating the Network**
 
-**Step 1:** Set a Network Name: Choose a name for your network, such as "mynet."
+**Step 1:** Choose a network plan that suits your needs. Please note that the connection aggregation service is available exclusively with the Premium and Elite plans."
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_give_name_for_network.png){class="glboxshadow"}
+![](../images/tutorials/connection_aggregation/2.png)
 
-**Step 2:** Select the Connection Aggregation Scenario.
+**Step 2:** Set a Network Name: Choose a preferred name for your network, such as "Connection_Aggregation.".
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/select_aggregation_scenario.png){class="glboxshadow"}
+![](../images/tutorials/connection_aggregation/3.png)
 
-**Step 3:** Choose the Location and Traffic Plan.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_choose_location_and_traffic_plan.png){class="glboxshadow"}
+**Step 3:** Select the router device you intend to use for connection aggregation and add it to the network.
 
-**Step 4:** Select Routers for Aggregated VPN.
+![](../images/tutorials/connection_aggregation/4.png)
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_select_aggregated_routers.png){class="glboxshadow"}
 
-**Step 5:**After completing the payment, the following topology connection will be generated.
+**Step 4:** After creating the network, manually drag the connection point from the router to the cloud gateway within the interface. Once this step is completed, the aggregation connection will be successfully established, allowing your router device to access the internet using the aggregated connection.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_aggregated_inited_topology.png)
+<video controls>
+  <source src="../../images/tutorials/connection_aggregation/video.mov" type="video/mp4">
+</video>
 
-You can check if our public IP address matches the public IP address of the aggregation node via [ipaddress.my](https://www.ipaddress.my/){target="_blank"}.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/astrowarp_check_ip_address.png){class="glboxshadow"}
+You can check if our public IP address matches the public IP address of the aggregation node via [ipaddress.my](https://www.ipaddress.my/){target="_blank"}.
 
-**Step 6:** Once confirmed the IP address, you can test different application scenarios. For example, you can try disconnecting the router's tethering network connection during a video conference to observe if the call is interrupted due to network issues.
+![](../images/tutorials/connection_aggregation/5.png)
 
-## **FAQ** 
+**Step 5:**Once confirmed the IP address, you can test different application scenarios. For example, you can try disconnecting the router's tethering network connection during a video conference to observe if the call is interrupted due to network issues.
 
-**Q:** Why is there no significant increase in speed with connection aggregation?
 
-**A:** First, check if your speed has already reached the physical limit. For Spitz AX (GL-X3000)/Puli AX (GL-XE3000) devices, the aggregated physical limit is around 500 Mbps. The speed aggregation feature does not apply to scenarios with significant differences in link quality, such as bandwidth and latency. We do not recommend using Ethernet and cellular networks for aggregated connections.
-
----
-
-Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.

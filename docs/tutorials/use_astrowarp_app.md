@@ -11,7 +11,8 @@ Before start, You should create your network as described in the [Quick Start](.
 
 **Step 1:** Add share link in Astrowarp network
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-add-client.png){class="glboxshadow"}
+
+![](../images/quick_start/15.png)
 
 **Step 2:** Set up share link
 
@@ -43,8 +44,8 @@ Join the Astrowarp network using the shared link in the client
 
 * Mobile phone
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-add-client-mobilephone.jpg){class="glboxshadow"}
 
+![](../images/quick_start/17.png)
 
 
 ## **FAQ** 

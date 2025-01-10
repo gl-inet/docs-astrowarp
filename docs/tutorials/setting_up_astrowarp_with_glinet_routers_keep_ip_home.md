@@ -2,48 +2,38 @@
 
 This document outlines how to use your home network as an internet exit while traveling. By accessing the internet through your home network, you can ensure security and privacy while bypassing some traditional VPN limitations. For example, many services like Netflix restrict the use of VPNs in various situations. However, if you access the internet through your home network, you will not encounter these restrictions.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/scenario_keep_ip_home_topology.jpg){class="glboxshadow"}
+![](../images/tutorials/keep-ip-home/1.png)
 
-## **Preparation**
-
-Before starting the configuration, please complete the [**preparations**](preparation_work.md).
 
 ## **Creating the Network**
 
-**Step 1:** Set a Network Name: Choose a name for your network, such as "mynet."
+**Step 1:** Select a plan to create the network (available with Plus, Premium, and Elite plans)."
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_give_name_for_network.png){class="glboxshadow"}
+![](../images/tutorials/keep-ip-home/2.png)
 
-**Step 2:** Select the Site to Site Scenario.
+**Step 2:** Set a Network Name: Choose a preferred name for your network, such as  Keep_Home_IP.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/select_s2s_scenario.png){class="glboxshadow"}
+![](../images/tutorials/keep-ip-home/3.png)
 
-**Step 3:** Choose Routers and Associated Server Locations
+**Step 3:** Add the router located at your home to this network and complete the payment.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_select_routers.png){class="glboxshadow"}
+![](../images/tutorials/keep-ip-home/4.png)
+![](../images/tutorials/keep-ip-home/5.png)
 
-**Step 4:** If you choose a non-free service, you will enter the payment step. Complete the payment according to the guide, and the following topology will appear.
+**Step 4:** Set the internet exit to the home router.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_s2s_inited_topology.png){class="glboxshadow"}
+![](../images/tutorials/keep-ip-home/6.png)
 
-**Step 5:** Configure the Home node as the exit node, and set the Travel node to use this exit.
+**Step 5:** Click the "+" icon in the top right corner of the interface to add your device as a client to the network. Configure the client to access the home router and use it as the internet exit.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_set_exit_node.png){class="glboxshadow"}
+![](../images/tutorials/keep-ip-home/7.png)
 
-Once set, a small area icon will appear on the side of the connection near Home.
+Input the network's share link in the app, or add the travel router to the network and configure it to use the home router as its internet exit.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_force_exit_node_icon.png){class="glboxshadow"}
+![](../images/tutorials/keep-ip-home/8.png)
+![](../images/tutorials/keep-ip-home/9.png)
 
-**Step 6:** Open a browser on the Travel side and check if our public IP address matches that of the home network via [ipaddress.my](https://www.ipaddress.my/){target="_blank"}.
+**Step 6:** Open a browser on the client device using the app or connected to the travel router, and visit [ipaddress.my](https://www.ipaddress.my/){target="_blank"} to check if the public IP address matches the IP address of your home network.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/astrowarp_check_ip_address.png){class="glboxshadow"}
+![](../images/tutorials/keep-ip-home/10.png)
 
-## **FAQ** 
-
-**Q:** After setting the Travel node to use the internet exit, why is there an issue refreshing service websites?
-
-**A:** After setting the exit node, the network may briefly disconnect, causing devices to be unable to access service websites and the internet. Please wait a moment (no more than 1 minute) for the connection to restore.
-
----
-
-Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.

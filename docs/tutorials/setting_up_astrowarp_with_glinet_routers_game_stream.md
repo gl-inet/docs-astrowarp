@@ -1,7 +1,9 @@
 # How to Stream Games Using Remote Desktop
 
-Game streaming allows you to play high-performance games on any device remotely, whether you’re on a weaker PC, a laptop, or even a mobile device. This guide will help you set up remote desktop streaming for games using Windows Remote Desktop.
-
+Gaqme streaming allows you to play high-performance games on any device remotely, whether you’re on a weaker PC, a laptop, or even a mobile device. This guide will help you set up remote desktop streaming for games using Windows Remote Desktop.
+<video controls>
+  <source src="../images/quick_start/video/Remove-permissions.mp4" type="video/mp4">
+</video>
 ### **Ensure Your Host PCIs Ready for Remote Desktop**
 
 * Check Windows Version:
