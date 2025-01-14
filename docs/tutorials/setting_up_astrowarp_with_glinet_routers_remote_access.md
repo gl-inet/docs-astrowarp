@@ -1,17 +1,17 @@
 # Setting Up AstroWarp with GL.iNet Routers: Remote Access
 
-This document outlines the steps to create a remote access scenario that allows you to securely access your company's network resources, such as computers, NAS, printers, etc., from a remote location.
+This document outlines the steps to create a remote access scenario that allows you to securely access your company's network resources, such as computers, NAS, printers, etc, from a remote location.
 
 ![](../images/tutorials/remote-access/1.png)
 
 
 ## **Creating the Network**
 
-**Step 1:** Select a plan to create the network (available with all plans)."
+**Step 1:** Select a plan to create the network (available with all plans).
 
 ![](../images/tutorials/remote-access/2.png)
 
-**Step 2:** Set a Network Name: Choose a preferred name for your network, such as "Remote_Access."
+**Step 2:** Set a Network Name: Choose a preferred name for your network, such as "Remote_Access".
 
 ![](../images/tutorials/remote-access/3.png)
 
@@ -32,5 +32,5 @@ The remote access network is now set up.
 
 **Step 6:** Using this virtual IP address, you can perform a series of remote operations on your office computer from the home computer, such as using [Windows Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c#ID0EDD=Windows_10){target="_blank"}.
 
-![](../images/astrowarp_check_virtual_ip.png)
-
+<!-- ![](../images/astrowarp_check_virtual_ip.png) -->
+![](../images/tutorials/remote-access/8.png)

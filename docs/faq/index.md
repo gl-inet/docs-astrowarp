@@ -41,7 +41,7 @@
 
 * Check he firewall settings of the accessed device to ensure that the device is allowed to be accessed by the router.
 
-* Try to restart ([stop and then start](../quick_start/index.md/#stop-or-start-network)) the astrowarp network.
+* Try to restart the astrowarp network.
 
 * Try to [switch the server node](../quick_start/index.md/#switch-cloud-node-location).
 
@@ -73,7 +73,7 @@
 
 * If the exit node is in use, please confirm whether the exit node can access the Internet normally.
 
-* Try to restart ([stop and then start](../quick_start/index.md/#stop-or-start-network)) the astrowarp network.
+* Try to restart the astrowarp network.
 
 * Try to [disable the astrowarp](../quick_start/index.md/#disable-astrowarp-services) service on the router.
 

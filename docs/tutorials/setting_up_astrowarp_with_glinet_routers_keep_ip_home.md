@@ -7,7 +7,7 @@ This document outlines how to use your home network as an internet exit while tr
 
 ## **Creating the Network**
 
-**Step 1:** Select a plan to create the network (available with Plus, Premium, and Elite plans)."
+**Step 1:** Select a plan to create the network (available with Plus, Premium, and Elite plans).
 
 ![](../images/tutorials/keep-ip-home/2.png)
 
@@ -18,7 +18,7 @@ This document outlines how to use your home network as an internet exit while tr
 **Step 3:** Add the router located at your home to this network and complete the payment.
 
 ![](../images/tutorials/keep-ip-home/4.png)
-![](../images/tutorials/keep-ip-home/5.png)
+![](../images/tutorials/keep-ip-home/11.png)
 
 **Step 4:** Set the internet exit to the home router.
 

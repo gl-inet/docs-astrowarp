@@ -26,17 +26,17 @@ Router Compatibility: Confirm that your router model falls under the following l
     <tr>
     <td>Beryl AX (GL-MT3000)</td>
     <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/mt3000/stable" target="_blank">Beta Firmware</a></td>
+    <td><a href="https://dl.gl-inet.com/router/mt3000/stable" target="_blank">Stable Firmware</a></td>
   </tr>
     <tr>
     <td>Flint 2 (GL-MT6000)</td>
     <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/mt6000/stable" target="_blank">Beta Firmware</a></td>
+    <td><a href="https://dl.gl-inet.com/router/mt6000/stable" target="_blank">Stable Firmware</a></td>
   </tr>
     <tr>
     <td>Brume 2 (GL-MT2500/GL-MT2500A)</td>
     <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/mt2500/stable" target="_blank">Beta Firmware</a></td>
+    <td><a href="https://dl.gl-inet.com/router/mt2500/stable" target="_blank">Stable Firmware</a></td>
   </tr>
     <tr>
     <td>Flint (GL-AX1800)</td>
@@ -58,13 +58,15 @@ Router Compatibility: Confirm that your router model falls under the following l
 
 
 #### **Router Connection and Initial Setup**
-If you are a new user, please complete the GL router connection and initial setup following the [tutorial](https://docs.gl-inet.com/router/en/4/faq/first_time_setup/){target="_blank"} below before starting the configuration.
+If you are a new user, please complete the GL router connection and initial setup following the [tutorial](https://docs.gl-inet.com/router/en/4/faq/first_time_setup/){target="_blank"} below before starting the configuration.<br><br>
+
+
 
 
 #### **Enable Cloud Services**
 Please follow the steps below to enable Cloud Services before using AstroWarp:<br>
 
-**Step 1:**Access the router's management interface (http://192.168.8.1). In the left panel, navigate to CLOUD SERVICES → AstroWap. Click on "Get Started." A "Cloud Services" window will appear in the top-right corner. Click the "Enable" button to activate Cloud Services.
+**Step 1:**Access the router's management interface ([http://192.168.8.1](http://192.168.8.1){target="_blank"}). In the left panel, navigate to CLOUD SERVICES → AstroWap. Click on "Get Started." A "Cloud Services" window will appear in the top-right corner. Click the "Enable" button to activate Cloud Services.
 
 ![](../images/quick_start/1.png)
 **Step 2**: Log in to your GL account.
@@ -84,11 +86,11 @@ Note: Every router in the network must be signed in to the GL.iNet account.
 ### **Connect device to the router**
 If you are configuring for the first time, we recommend that you connect the device to the LAN port or WIFI of the router, which is applicable to all scenarios.
 
-![](../images/quick_start/5.png)
+![](../images/quick_start/used_as_main_router.png)
 
 In many cases, our device is already in the existing network. At this time, we just need to add the router to the existing network. (Notice: Only applies to the case where the device is only used as the accessed end or the router is used as the exit node)
 
-![](../images/quick_start/6.png)
+![](../images/quick_start/join_existing_network.png)
 
 ### **Log in to your account**
 
@@ -96,14 +98,33 @@ Use your GL.iNet account to log in to AstroWarp.
 
 ![](../images/quick_start/7.png)
 
+## **Creating the Network**
 
+**Step 1**: Set a Network Name: Choose a name for your network, such as "mynet".
+
+![](../images/quick_start/8.png)
+
+**Step 2**: Select your server location, router, and plan type.
+
+![](../images/quick_start/9.png)
+
+**Step 3**: Click the "Other Plan" button to select the plan that suits you.
+
+![](../images/quick_start/10.png)
+
+**Step 4**: If you choose a paid plan, proceed to the payment page to complete the transaction.
+
+![](../images/quick_start/11.png)
+
+**Step 5**: After completing the steps, the following topology diagram will appear, confirming the successful setup of the basic network.
+
+![](../images/quick_start/12.png)
 
 ## **Router node management**
 
 ### Add router nodes
 
 You can add more router nodes to the basic network to enrich your application.
-
 ![](../images/quick_start/video/Add-router-nodes.mp4)
 <video controls>
   <source src="../images/quick_start/video/Add-router-nodes.mp4" type="video/mp4">
@@ -134,8 +155,6 @@ If you need to disable the astrowarp service on your router, you can turn off th
 ## **Access permission settings**
 
 Node access and resource access constitute the permission control mechanism of astrowarp, and the device is only allowed to access if both permissions are set correctly.
-
-![](../images/quick_start/8.png)
 
 ### Node access permissions
 
@@ -174,7 +193,7 @@ Or you can quickly add resources through the + sign on the right of the node.
 
 Note: You can view the IP address and MAC address in the router's management interface to verify the resources.
 
-
+![](../images/quick_start/13.png)
 
 #### Accessible address (Virtual IP)
 
@@ -216,7 +235,7 @@ In a few cases, the recommended server may be subject to some restrictions. If n
 
 ## **Network Management**
 
-### Stop or start network
+### Delete network
 
 <video controls>
   <source src="../images/quick_start/video/Delete-network.mp4" type="video/mp4">

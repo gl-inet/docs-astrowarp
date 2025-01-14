@@ -6,11 +6,11 @@ This document will guide you in creating an Aggregated VPN link for internet acc
 
 ## **Creating the Network**
 
-**Step 1:** Choose a network plan that suits your needs. Please note that the connection aggregation service is available exclusively with the Premium and Elite plans."
+**Step 1:** Choose a network plan that suits your needs. Please note that the connection aggregation service is available exclusively with the Premium and Elite plans.
 
 ![](../images/tutorials/connection_aggregation/2.png)
 
-**Step 2:** Set a Network Name: Choose a preferred name for your network, such as "Connection_Aggregation.".
+**Step 2:** Choose a preferred name for your network, such as "Connection_Aggregation".
 
 ![](../images/tutorials/connection_aggregation/3.png)
 

@@ -69,7 +69,7 @@ nav:
       - Game Streaming: tutorials/game_stream.md
       - Keep Your Home IP: tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md
       - Work From Home: tutorials/work_from_home.md
-      - Aggregation VPN: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
+      - Connection Aggregation: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
       # - Remote Networking: tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md
       # - Aggregation VPN: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
       - Remote Desktop: tutorials/how_to_implement_remote_desktop_on_a_pc.md

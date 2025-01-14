@@ -5,7 +5,7 @@
 
 ## **Creating the Network**
 
-**Step 1:** SSelect a plan to create a network. The minimum required plan is the **Plus Plan**.
+**Step 1:** Select a plan to create a network. The minimum required plan is the **Plus Plan**.
 
 ![](../images/tutorials/work_from_home/2.png)
 
@@ -15,8 +15,8 @@
 
 **Step 3:** Add your company's router to the network and complete the payment.
 
-![](../images/tutorials/work_from_home/3.png)
 ![](../images/tutorials/work_from_home/4.png)
+![](../images/tutorials/work_from_home/5.png)
 
 **Step 4:** 
 
@@ -33,7 +33,7 @@
 
 ## **Add Accessible Resources**
 
-**Step 6:** Click the plus sign next to Office1 and Office 2, select the devices you wish to access mutually, and confirm.
+<!-- **Step 6:** Click the plus sign next to Office1 and Office 2, select the devices you wish to access mutually, and confirm. -->
 
 Click on the router's **Details** or hover over it on the topology map to add accessible resources.
 
