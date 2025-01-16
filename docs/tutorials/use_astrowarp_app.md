@@ -1,26 +1,20 @@
 # Use the AstroWarp client
 
-## **Preparation**
+## Preparation
 
-Before start, You should create your network as described in the [Quick Start](../quick_start/index.md) and download the appropriate client application [here](https://www.astrowarp.net/download).
+Before start, You should create your network as described in the [Quick Start](../quick_start/index.md) and download the appropriate client application [here](https://www.astrowarp.net/download){target="_blank"}.
 
-
-
-
-## **Add share link in network**
+## Add share link in network
 
 **Step 1:** Add share link in Astrowarp network
 
-
-![](../images/quick_start/15.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/15.png){class="glboxshadow"}
 
 **Step 2:** Set up share link
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-client-setting.png){class="glboxshadow"}
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-qr-code.png){class="glboxshadow"}
-
-
 
 **Link Lifetime:**  The validity period of the shared link
 
@@ -30,9 +24,7 @@ Before start, You should create your network as described in the [Quick Start](.
 
 **Accessible Router: ** List of routers to be accessed
 
-
-
-## **Join network in client**
+## Join network in client
 
 Join the Astrowarp network using the shared link in the client
 
@@ -40,19 +32,15 @@ Join the Astrowarp network using the shared link in the client
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-app-windows-add-link.png){class="glboxshadow"}
 
-
-
 * Mobile phone
 
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/17.png)
 
-![](../images/quick_start/17.png)
+## FAQ
 
+Q: How can I quickly apply the modified configuration on the client?
 
-## **FAQ** 
-
-**Q:** How can I quickly apply the modified configuration on the client?
-
-**A:** Exit and reopen the client to automatically re-pull the latest configuration
+A: Exit and reopen the client to automatically re-pull the latest configuration
 
 ---
 
