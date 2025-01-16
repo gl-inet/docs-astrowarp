@@ -1,36 +1,134 @@
 # Quick start
 
-## **Create a basic network**
+## Preparation
 
-For first-time users, we recommend setting up your AstroWarp network based on your specific needs. Here are some network setup options to choose from, depending on your scenario:
+### Check model and version
 
-[**Setting Up AstroWarp with GL.iNet Routers: Remote Access**](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md)
+Router Compatibility: Confirm that your router model falls under the following list:
 
-If you need to access your devices remotely, follow this guide.
+<table>
+<thead>
+  <tr style="background-color:#f6f6f6">
+    <th>Supported Models</th>
+    <th>Version</th>
+    <th>Firmware Download</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Spitz AX (GL-X3000)</td>
+    <td>4.7.0 or higher</td>
+    <td><a href="https://dl.gl-inet.com/router/x3000/?type=beta" target="_blank">Beta Firmware</a></td>
+  </tr>
+    <tr>
+    <td>Puli AX (GL-XE3000)</td>
+    <td>4.7.0 or higher</td>
+    <td><a href="https://dl.gl-inet.com/router/xe3000/?type=beta" target="_blank">Beta Firmware</a></td>
+  </tr>
+    <tr>
+    <td>Beryl AX (GL-MT3000)</td>
+    <td>4.7.0 or higher</td>
+    <td><a href="https://dl.gl-inet.com/router/mt3000/stable" target="_blank">Stable Firmware</a></td>
+  </tr>
+    <tr>
+    <td>Flint 2 (GL-MT6000)</td>
+    <td>4.7.0 or higher</td>
+    <td><a href="https://dl.gl-inet.com/router/mt6000/stable" target="_blank">Stable Firmware</a></td>
+  </tr>
+    <tr>
+    <td>Brume 2 (GL-MT2500/GL-MT2500A)</td>
+    <td>4.7.0 or higher</td>
+    <td><a href="https://dl.gl-inet.com/router/mt2500/stable" target="_blank">Stable Firmware</a></td>
+  </tr>
+    <tr>
+    <td>Flint (GL-AX1800)</td>
+    <td>4.7.0 or higher</td>
+    <td><a href="https://dl.gl-inet.com/router/ax1800/beta" target="_blank">Beta Firmware</a></td>
+  </tr>
+    <tr>
+    <td>Slate AX (GL-AXT1800)</td>
+    <td>4.7.0 or higher</td>
+    <td><a href="https://dl.gl-inet.com/router/axt1800/beta" target="_blank">Beta Firmware</a></td>
+  </tr>
+    <tr>
+    <td>Slate 7(GL-BE3600)</td>
+    <td>coming soon</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
-[**Setting Up AstroWarp with GL.iNet Routers: Keep Your Home IP**](../tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md)
+### Router Connection and Initial Setup
 
-This option is for users who want to maintain their home IP address while away.
+If you are a new user, please complete the GL router connection and initial setup following the [tutorial](https://docs.gl-inet.com/router/en/4/faq/first_time_setup/){target="_blank"} below before starting the configuration.
 
-[**Setting Up AstroWarp with GL.iNet Routers: Remote Networking**](../tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md)
+### Enable Cloud Services
 
-Ideal for users who need to set up a network between different locations.
+Please follow the steps below to enable Cloud Services before using AstroWarp:
 
-[**Setting Up AstroWarp with GL.iNet Routers: Aggregation VPN**](../tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md)
+**Step 1:** Access the router's management interface ([http://192.168.8.1](http://192.168.8.1){target="_blank"}). In the left panel, navigate to CLOUD SERVICES → AstroWap. Click on "Get Started." A "Cloud Services" window will appear in the top-right corner. Click the "Enable" button to activate Cloud Services.
 
-For those looking to combine multiple connections to increase speed and reliability.
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/1.png){class="glboxshadow"}
 
-<br>
+**Step 2**: Log in to your GL account.
 
-After completing the creation of the basic network, we can continue reading to complete more complex operations.
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/2.png){class="glboxshadow"}
 
-## **Router node management**
+If you don’t have an account yet, you’ll need to create one by clicking the "Sign up" button and completing the login process.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/3.png){class="glboxshadow"}
+
+**Step 3**: Click the "Get Started" button to open AstroWarp.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/4.png){class="glboxshadow"}
+
+Note: Every router in the network must be signed in to the GL.iNet account.
+
+### Connect device to the router
+
+If you are configuring for the first time, we recommend that you connect the device to the LAN port or WIFI of the router, which is applicable to all scenarios.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/router_1.jpg){class="glboxshadow"}
+
+In many cases, our device is already in the existing network. At this time, we just need to add the router to the existing network. (Notice: Only applies to the case where the device is only used as the accessed end or the router is used as the exit node)
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/router_2.jpg){class="glboxshadow"}
+
+### Log in to your account
+
+Use your GL.iNet account to log in to AstroWarp.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/7.png){class="glboxshadow"}
+
+## Creating the Network
+
+**Step 1**: Set a Network Name: Choose a name for your network, such as "mynet".
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/8.png){class="glboxshadow"}
+
+**Step 2**: Select your server location, router, and plan type.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/9.png){class="glboxshadow"}
+
+**Step 3**: Click the "Other Plan" button to select the plan that suits you.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
+
+**Step 4**: If you choose a paid plan, proceed to the payment page to complete the transaction.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/11.png){class="glboxshadow"}
+
+**Step 5**: After completing the steps, the following topology diagram will appear, confirming the successful setup of the basic network.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/12.png){class="glboxshadow"}
+
+## Router node management
 
 ### Add router nodes
 
 You can add more router nodes to the basic network to enrich your application.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_add_router_node.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/Add_router_nodes.gif)
 
 ### Node renaming
 
@@ -41,16 +139,15 @@ To make the network clearer, we can set our favorite names for the nodes.
 ### Delete router nodes
 
 If the router node is no longer needed, we can delete it.
-
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_delete_node.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/Delete_router_nodes.gif)
 
 ### Disable astrowarp services
 
 If you need to disable the astrowarp service on your router, you can turn off the virtual network connection in your router's details settings.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/router_disable_astrowarp.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/Disable_astrowarp_services.gif)
 
-## **Access permission settings**
+## Access permission settings
 
 Node access and resource access constitute the permission control mechanism of astrowarp, and the device is only allowed to access if both permissions are set correctly.
 
@@ -72,7 +169,7 @@ By clicking on the connection, we can set the access permissions between nodes t
 
 You can also select and delete connections that are no longer needed.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/deleate_node_connection.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/delete-line.gif)
 
 ### Resource access permissions
 
@@ -82,7 +179,11 @@ You can add or delete resources through the details interface of the node.
 
 Or you can quickly add resources through the + sign on the right of the node.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_add_resource_shortcut.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/sign_on_the.gif)
+
+Note: You can view the IP address and MAC address in the router's management interface to verify the resources.
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/13.png)
 
 #### Accessible address (Virtual IP)
 
@@ -104,7 +205,7 @@ You can set a domain name for **local** access for any resource. The domain name
 
 This domain name is resolved locally by the router, so please do not set DNS encryption on your access end or point the DNS service to other addresses.
 
-## **Exit Node Settings**
+## Exit Node Settings
 
 Router nodes can be used as Internet exits.
 
@@ -114,7 +215,7 @@ Exit nodes are not used for any router nodes by default, so we need to set wheth
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_use_exit_node.gif)
 
-## **Cloud Node Management**
+## Cloud Node Management
 
 ### Switch Cloud Node Location
 
@@ -122,11 +223,55 @@ In a few cases, the recommended server may be subject to some restrictions. If n
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_exchange.gif)
 
-## **Network Management**
+## Network Management
 
-### Stop or start network
+### Delete network
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_stop_or_start_network.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/delete_network.gif)
+
+## Use the AstroWarp Client
+
+### Preparation
+
+Before start, You should create your network as described in the [Quick Start](../quick_start/index.md) and download the appropriate client application [here](https://www.astrowarp.net/download).
+
+## Add share link in network
+
+**Step 1:** Add share link in Astrowarp network
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/15.png){class="glboxshadow"}
+
+**Step 2:** Set up share link
+
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-client-setting.png){class="glboxshadow"}
+
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-qr-code.png){class="glboxshadow"}
+
+**Link Lifetime:**  The validity period of the shared link
+
+**Add Once:**  Whether to allow the shared link to be used by multiple clients
+
+**Use Internet Exit:**  Whether to allow the client to use the Internet exit
+
+**Accessible Router**:  List of routers to be accessed
+
+## Join network in client
+
+Join the Astrowarp network using the shared link in the client
+
+* windows
+
+![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-app-windows-add-link.png){class="glboxshadow"}
+
+* Mobile phone
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/17.png){class="glboxshadow"}
+
+## FAQ
+
+Q: How can I quickly apply the modified configuration on the client?
+
+A: Exit and reopen the client to automatically re-pull the latest configuration
 
 ___
 

@@ -1,12 +1,47 @@
 # FAQ
 
+### **Why can't I find my router in the AstroWarp device list?**
+
+* Ensure that your router's firmware is updated to version 4.7.0.
+
+* When logging into the cloud service, make sure to use the "SELF" option.
+
+---
+
+### **Why is there an issue refreshing service websites after setting the Travel node to use the internet exit?**
+
+* After setting the exit node, the network may briefly disconnect, preventing devices from accessing service websites and the internet. Please wait for up to one minute for the connection to restore.
+
+---
+
+### **What should I do if I cannot access Remote Desktop after following the setup steps?**
+
+* First, ensure you are using the virtual IP to access Remote Desktop and that the username and password are correct. If the issue persists, check the firewall settings to ensure that permissions for the Remote Desktop application are properly configured.
+  
+---
+
+### **What should I do if I cannot ping after following the setup steps?**
+
+* Make sure you are using the virtual IP for access and that the username and password are correct. If the issue persists, check the firewall settings on the device you are trying to access.
+
+
+---
+
+### **Why is there no significant increase in speed with connection aggregation?**
+
+* Check if your speed has already reached the physical limit. For Spitz AX (GL-X3000) and Puli AX (GL-XE3000) devices, the aggregated physical limit is around 300 Mbps.
+
+* The speed aggregation feature may not work effectively in scenarios with significant differences in link quality, such as bandwidth and latency. We do not recommend using Ethernet and cellular networks for aggregated connections.
+
+---
+
 ### **Remote access failed**
 
 * Check the [node access and resource access settings](../quick_start/index.md/#access-permission-settings) of the network topology map to confirm that the device is allowed to be accessed.
 
-* Check the firewall settings of the accessed device to ensure that the device is allowed to be accessed by the router.
+* Check he firewall settings of the accessed device to ensure that the device is allowed to be accessed by the router.
 
-* Try to restart ([stop and then start](../quick_start/index.md/#stop-or-start-network)) the astrowarp network.
+* Try to restart the astrowarp network.
 
 * Try to [switch the server node](../quick_start/index.md/#switch-cloud-node-location).
 
@@ -38,7 +73,7 @@
 
 * If the exit node is in use, please confirm whether the exit node can access the Internet normally.
 
-* Try to restart ([stop and then start](../quick_start/index.md/#stop-or-start-network)) the astrowarp network.
+* Try to restart the astrowarp network.
 
 * Try to [disable the astrowarp](../quick_start/index.md/#disable-astrowarp-services) service on the router.
 

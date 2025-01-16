@@ -1,8 +1,4 @@
-# Tutorials
-
-Before starting the configuration, please complete the [**preparations**](preparation_work.md).
-
-## Scenario guide
+# Scenario Usage Guide
 
 [Setting Up AstroWarp with GL.iNet Routers: Remote Access](setting_up_astrowarp_with_glinet_routers_remote_access.md)
 
