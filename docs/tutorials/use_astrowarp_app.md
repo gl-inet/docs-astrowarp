@@ -45,7 +45,7 @@ Join the Astrowarp network using the shared link in the client
 * Mobile phone
 
 
-![](../images/quick_start/17.jpeg)
+![](../images/quick_start/17.png)
 
 
 ## **FAQ** 

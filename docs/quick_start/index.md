@@ -86,11 +86,11 @@ Note: Every router in the network must be signed in to the GL.iNet account.
 ### **Connect device to the router**
 If you are configuring for the first time, we recommend that you connect the device to the LAN port or WIFI of the router, which is applicable to all scenarios.
 
-![](../images/quick_start/used_as_main_router.png)
+![](../images/quick_start/router_1.jpg)
 
 In many cases, our device is already in the existing network. At this time, we just need to add the router to the existing network. (Notice: Only applies to the case where the device is only used as the accessed end or the router is used as the exit node)
 
-![](../images/quick_start/join_existing_network.png)
+![](../images/quick_start/router_2.jpg)
 
 ### **Log in to your account**
 
@@ -125,10 +125,10 @@ Use your GL.iNet account to log in to AstroWarp.
 ### Add router nodes
 
 You can add more router nodes to the basic network to enrich your application.
-![](../images/quick_start/video/Add-router-nodes.mp4)
-<video controls>
+![](../images/quick_start/Add_router_nodes.gif)
+<!-- <video controls>
   <source src="../images/quick_start/video/Add-router-nodes.mp4" type="video/mp4">
-</video>
+</video> -->
 
 ### Node renaming
 
@@ -139,18 +139,15 @@ To make the network clearer, we can set our favorite names for the nodes.
 ### Delete router nodes
 
 If the router node is no longer needed, we can delete it.
-
-<video controls>
+![](../images/quick_start/Delete_router_nodes.gif)
+<!-- <video controls>
   <source src="../images/quick_start/video/Delete-router-nodes.mp4" type="video/mp4">
-</video>
+</video> -->
 
 ### Disable astrowarp services
 
 If you need to disable the astrowarp service on your router, you can turn off the virtual network connection in your router's details settings.
-
-<video controls>
-  <source src="../images/quick_start/video/Disable-astrowarp-services.mp4" type="video/mp4">
-</video>
+![](../images/quick_start/Disable_astrowarp_services.gif)
 
 ## **Access permission settings**
 
@@ -174,10 +171,7 @@ By clicking on the connection, we can set the access permissions between nodes t
 
 You can also select and delete connections that are no longer needed.
 
-<video controls>
-  <source src="../images/quick_start/video/Remove-permissions.mp4" type="video/mp4">
-</video>
-
+![](../images/quick_start/delete-line.gif)
 
 ### Resource access permissions
 
@@ -186,10 +180,10 @@ You can add or delete resources through the details interface of the node.
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_add_resource.gif)
 
 Or you can quickly add resources through the + sign on the right of the node.
-
-<video controls>
+![](../images/quick_start/sign_on_the.gif)
+<!-- <video controls>
   <source src="../images/quick_start/video/sign-on-the-right-of-the-node.mp4" type="video/mp4">
-</video>
+</video> -->
 
 Note: You can view the IP address and MAC address in the router's management interface to verify the resources.
 
@@ -237,9 +231,7 @@ In a few cases, the recommended server may be subject to some restrictions. If n
 
 ### Delete network
 
-<video controls>
-  <source src="../images/quick_start/video/Delete-network.mp4" type="video/mp4">
-</video>
+![](../images/quick_start/delete_network.gif)
 
 ## **Use the AstroWarp Client**
 
@@ -283,7 +275,7 @@ Join the Astrowarp network using the shared link in the client
 
 * Mobile phone
 
-![](../images/quick_start/17.jpeg)
+![](../images/quick_start/17.png)
 
 
 ## **FAQ** 
