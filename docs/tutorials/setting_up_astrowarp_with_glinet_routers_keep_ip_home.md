@@ -4,7 +4,7 @@ This document outlines how to use your home network as an internet exit while tr
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/1.png){class="glboxshadow"}
 
-## **Creating the Network**
+## Creating the Network
 
 **Step 1:** Select a plan to create the network (available with Plus, Premium, and Elite plans).
 

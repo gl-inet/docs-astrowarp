@@ -34,7 +34,7 @@ While Windows Remote Desktop is effective for work-related tasks, using a dedica
 
 #### For Sunshine:
 
-* **GPU:** Any modern GPU from AMD, NVIDIA, or Intel. <br>
+* **GPU:** Any modern GPU from AMD, NVIDIA, or Intel.
 * **Operating System:**
     * Windows 10 or 11 (**Windows 7 and 8 are not supported**).
     * macOS 12 and newer (**experimental**).

@@ -2,8 +2,7 @@
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/work_from_home/1.png)
 
-
-## **Creating the Network**
+## Creating the Network
 
 **Step 1:** Select a plan to create a network. The minimum required plan is the **Plus Plan**.
 
@@ -23,17 +22,13 @@
  * Click the "+" button to add your home router to the network and configure access permissions by dragging and connecting it to the company router.
  * Alternatively, download the AstroWarp app on your client device (e.g., computer or tablet) to directly join the network.
 
-
-
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/work_from_home/6.png)
 
 **Step 5:** Change the internet exit to the company router. Then configure your home router and client devices to use the internet exit. This allows you to remotely access services like NAS or GitLab at home using the company router's IP address.
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/work_from_home/7.png)
 
-## **Add Accessible Resources**
-
-<!-- **Step 6:** Click the plus sign next to Office1 and Office 2, select the devices you wish to access mutually, and confirm. -->
+## Add Accessible Resources
 
 Click on the router's **Details** or hover over it on the topology map to add accessible resources.
 
@@ -47,3 +42,6 @@ You can now access the company network and its services at any time, with your d
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/work_from_home/10.png)
 
+---
+
+Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.

@@ -3,7 +3,7 @@ This document will guide you in creating an Aggregated VPN link for internet acc
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/1.png){class="glboxshadow"}
 
-## **Creating the Network**
+## Creating the Network
 
 **Step 1:** Choose a network plan that suits your needs. Please note that the connection aggregation service is available exclusively with the Premium and Elite plans.
 

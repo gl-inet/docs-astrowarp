@@ -4,7 +4,7 @@ This document outlines the steps to create a remote access scenario that allows 
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/1.png){class="glboxshadow"}
 
-## **Creating the Network**
+## Creating the Network
 
 **Step 1:** Select a plan to create the network (available with all plans).
 

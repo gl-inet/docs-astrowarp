@@ -1,6 +1,6 @@
 # Preparation work
 
-## **Check model and version**
+## Check model and version
 
 * Router Compatibility: Confirm that your router model falls under the following list: 
 
@@ -14,7 +14,7 @@
 | Flint (GL-AX1800)              | Coming soon     |                                                              |
 | Slate AX (GL-AXT1800)          | Coming soon     |                                                              |
 
-## **Bind router to GL account**
+## Bind router to GL account
 
 * Follow the instructions below to log in to your GL.iNet account and bind your device.
 
@@ -28,7 +28,7 @@
 
   *Note: Every router in the network must be signed in to the GL.iNet account.*
 
-## **Connect device to the router**
+## Connect device to the router
 
 * If you are configuring for the first time, we **recommend** that you connect the device to the LAN port or WIFI of the router, which is applicable to all scenarios.
 

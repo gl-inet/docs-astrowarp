@@ -4,11 +4,11 @@ This document outlines the steps to create a remote network that connects resour
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/scenario_remote_networking_topology.jpg){class="glboxshadow"}
 
-## **Preparation**
+## Preparation
 
 Before starting the configuration, please complete the [**preparations**](preparation_work.md).
 
-## **Creating the Network**
+## Creating the Network
 
 **Step 1:** Set a Network Name: Choose a name for your network, such as "mynet."
 
@@ -42,11 +42,11 @@ Once access is granted, a virtual IP will be automatically assigned. You can vie
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_networking/ping_result.png){class="glboxshadow"}
 
-## **FAQ** 
+## FAQ
 
-**Q:** What should I do if I cannot ping after following the setup steps?
+Q: What should I do if I cannot ping after following the setup steps?
 
-**A:** First, ensure you are using the virtual IP for access and that the username and password are correct. If the issue persists, please check the firewall settings on the device being accessed.
+A: First, ensure you are using the virtual IP for access and that the username and password are correct. If the issue persists, please check the firewall settings on the device being accessed.
 
 ---
 
