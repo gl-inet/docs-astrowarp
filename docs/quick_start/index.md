@@ -100,15 +100,15 @@ To make the network clearer, we can set our favorite names for the nodes.
 If the router node is no longer needed, we can delete it.
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/Delete_router_nodes.gif)
 
-### Disable astrowarp services
+### Disable AstroWarp services
 
-If you need to disable the astrowarp service on your router, you can turn off the virtual network connection in your router's details settings.
+If you need to disable the AstroWarp service on your router, you can turn off the virtual network connection in your router's details settings.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/Disable_astrowarp_services.gif)
 
 ## Access permission settings
 
-Node access and resource access constitute the permission control mechanism of astrowarp, and the device is only allowed to access if both permissions are set correctly.
+Node access and resource access constitute the permission control mechanism of AstroWarp, and the device is only allowed to access if both permissions are set correctly.
 
 ### Node access permissions
 

@@ -41,7 +41,7 @@
 
 * Check he firewall settings of the accessed device to ensure that the device is allowed to be accessed by the router.
 
-* Try to restart the astrowarp network.
+* Try to restart the AstroWarp network.
 
 * Try to [switch the server node](../quick_start/index.md/#switch-cloud-node-location).
 
@@ -65,7 +65,7 @@
 
 ### **The original IP address of the device is inaccessible**
 
-* To avoid IP changes and subnet conflicts on the device, only accessible IPs assigned by astrowarp are supported for access.
+* To avoid IP changes and subnet conflicts on the device, only accessible IPs assigned by AstroWarp are supported for access.
 
 ---
 
@@ -73,9 +73,9 @@
 
 * If the exit node is in use, please confirm whether the exit node can access the Internet normally.
 
-* Try to restart the astrowarp network.
+* Try to restart the AstroWarp network.
 
-* Try to [disable the astrowarp](../quick_start/index.md/#disable-astrowarp-services) service on the router.
+* Try to [disable the AstroWarp](../quick_start/index.md/#disable-astrowarp-services) service on the router.
 
 ---
 
