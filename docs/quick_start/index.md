@@ -6,57 +6,16 @@
 
 Router Compatibility: Confirm that your router model falls under the following list:
 
-<table>
-<thead>
-  <tr style="background-color:#f6f6f6">
-    <th>Supported Models</th>
-    <th>Version</th>
-    <th>Firmware Download</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Spitz AX (GL-X3000)</td>
-    <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/x3000/?type=beta" target="_blank">Beta Firmware</a></td>
-  </tr>
-    <tr>
-    <td>Puli AX (GL-XE3000)</td>
-    <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/xe3000/?type=beta" target="_blank">Beta Firmware</a></td>
-  </tr>
-    <tr>
-    <td>Beryl AX (GL-MT3000)</td>
-    <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/mt3000/stable" target="_blank">Stable Firmware</a></td>
-  </tr>
-    <tr>
-    <td>Flint 2 (GL-MT6000)</td>
-    <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/mt6000/stable" target="_blank">Stable Firmware</a></td>
-  </tr>
-    <tr>
-    <td>Brume 2 (GL-MT2500/GL-MT2500A)</td>
-    <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/mt2500/stable" target="_blank">Stable Firmware</a></td>
-  </tr>
-    <tr>
-    <td>Flint (GL-AX1800)</td>
-    <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/ax1800/beta" target="_blank">Beta Firmware</a></td>
-  </tr>
-    <tr>
-    <td>Slate AX (GL-AXT1800)</td>
-    <td>4.7.0 or higher</td>
-    <td><a href="https://dl.gl-inet.com/router/axt1800/beta" target="_blank">Beta Firmware</a></td>
-  </tr>
-    <tr>
-    <td>Slate 7(GL-BE3600)</td>
-    <td>coming soon</td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+| Supported Models              | Version         | Firmware Download                                                                     |
+|-------------------------------|-----------------|---------------------------------------------------------------------------------------|
+| Spitz AX (GL-X3000)           | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/x3000/?type=beta){target="_blank"}      |
+| Puli AX (GL-XE3000)           | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/xe3000/?type=beta){target="_blank"}     |
+| Beryl AX (GL-MT3000)          | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/mt3000/stable){target="_blank"}       |
+| Flint 2 (GL-MT6000)           | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/mt6000/stable){target="_blank"}       |
+| Brume 2 (GL-MT2500/GL-MT2500A)| 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/mt2500/stable){target="_blank"}       |
+| Flint (GL-AX1800)             | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/ax1800/beta){target="_blank"}           |
+| Slate AX (GL-AXT1800)         | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/axt1800/beta){target="_blank"}          |
+| Slate 7 (GL-BE3600)           | coming soon     |                                                                                       |
 
 ### Router Connection and Initial Setup
 
