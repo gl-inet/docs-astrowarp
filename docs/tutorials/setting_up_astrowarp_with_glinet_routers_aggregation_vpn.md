@@ -21,7 +21,7 @@ This document will guide you in creating an Aggregated VPN link for internet acc
 
 **Step 4:** After creating the network, manually drag the connection point from the router to the cloud gateway within the interface. Once this step is completed, the aggregation connection will be successfully established, allowing your router device to access the internet using the aggregated connection.
 
-![](../images/quick_start/router-connect-cloud-gateway.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/router-connect-cloud-gateway.gif)
 
 
 You can check if our public IP address matches the public IP address of the aggregation node via [ipaddress.my](https://www.ipaddress.my/){target="_blank"}.
