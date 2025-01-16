@@ -77,6 +77,6 @@
 
 * Try to [disable the astrowarp](../quick_start/index.md/#disable-astrowarp-services) service on the router.
 
-<!-- --- -->
+---
 
-<!-- Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}. -->
+Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.
