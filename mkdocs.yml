@@ -18,9 +18,6 @@ theme:
 # Plugins
 plugins:
   - search
-  # - redirects:
-  #   - from: /index.md               # 旧页面的URL路径
-  #     to: /quick_start/index.md 
 
 # Customization
 extra:
@@ -61,8 +58,6 @@ nav:
     - Overview: index.md
     - Quick Start: 
       - Overview: quick_start/index.md
-    # - Overview: quick_start/index.md
-    # - Quick Start: quick_start/index.md
     - Scenario Usage Guide:
       - Overview: tutorials/index.md
       - Remote Access: tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md
@@ -70,19 +65,7 @@ nav:
       - Keep Your Home IP: tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md
       - Work From Home: tutorials/work_from_home.md
       - Connection Aggregation: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
-      # - Remote Networking: tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md
-      # - Aggregation VPN: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
       - Remote Desktop: tutorials/how_to_implement_remote_desktop_on_a_pc.md
     - Security Notice: security_notice/index.md
     - FAQ: faq/index.md
     - Version Update History: version/index.md
-  # - Quick Start:
-  #   - Overview: quick_start/index.md
-  # - Tutorials:
-  #   - Overview: tutorials/index.md
-  #   - Remote Access: tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md
-  #   - Remote Networking: tutorials/setting_up_astrowarp_with_glinet_routers_remote_networking.md
-  #   - Keep Your Home IP: tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md
-  #   - Aggregation VPN: tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md
-  # - FAQ:
-  #   - Overview: faq/index.md
