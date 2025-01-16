@@ -20,7 +20,7 @@ Game streaming allows you to play high-performance games on any device remotely,
 ![](../images/tutorials/game-streaming/4.png)
 ![](../images/tutorials/game-streaming/5.png)
 
-**Step5:** Add the devices you’ll use to play remotely, such as phones, tablets, or other devices, to the network as clients.
+**Step5:** Add the devices you'll use to play remotely, such as phones, tablets, or other devices, to the network as clients.
 
 ![](../images/tutorials/game-streaming/6.png)
 

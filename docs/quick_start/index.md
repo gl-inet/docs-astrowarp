@@ -56,28 +56,28 @@ Router Compatibility: Confirm that your router model falls under the following l
 </tbody>
 </table>
 
-
 #### **Router Connection and Initial Setup**
+
 If you are a new user, please complete the GL router connection and initial setup following the [tutorial](https://docs.gl-inet.com/router/en/4/faq/first_time_setup/){target="_blank"} below before starting the configuration.<br><br>
 
-
-
-
 #### **Enable Cloud Services**
+
 Please follow the steps below to enable Cloud Services before using AstroWarp:<br>
 
 **Step 1:**Access the router's management interface ([http://192.168.8.1](http://192.168.8.1){target="_blank"}). In the left panel, navigate to CLOUD SERVICES → AstroWap. Click on "Get Started." A "Cloud Services" window will appear in the top-right corner. Click the "Enable" button to activate Cloud Services.
 
-![](../images/quick_start/1.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/1.png)
+
 **Step 2**: Log in to your GL account.
-![](../images/quick_start/2.png)<br>
+
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/2.png)<br>
 If you don’t have an account yet, you’ll need to create one by clicking the "Sign up" button and completing the login process.
 
-![](../images/quick_start/3.png)<br>
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/3.png)<br>
 
 **Step 3**: Click the "Get Started" button to open AstroWarp.
 
-![](../images/quick_start/4.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/4.png)
 
 
 Note: Every router in the network must be signed in to the GL.iNet account.
@@ -86,49 +86,46 @@ Note: Every router in the network must be signed in to the GL.iNet account.
 ### **Connect device to the router**
 If you are configuring for the first time, we recommend that you connect the device to the LAN port or WIFI of the router, which is applicable to all scenarios.
 
-![](../images/quick_start/router_1.jpg)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/router_1.jpg)
 
 In many cases, our device is already in the existing network. At this time, we just need to add the router to the existing network. (Notice: Only applies to the case where the device is only used as the accessed end or the router is used as the exit node)
 
-![](../images/quick_start/router_2.jpg)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/router_2.jpg)
 
 ### **Log in to your account**
 
 Use your GL.iNet account to log in to AstroWarp.
 
-![](../images/quick_start/7.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/7.png)
 
 ## **Creating the Network**
 
 **Step 1**: Set a Network Name: Choose a name for your network, such as "mynet".
 
-![](../images/quick_start/8.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/8.png)
 
 **Step 2**: Select your server location, router, and plan type.
 
-![](../images/quick_start/9.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/9.png)
 
 **Step 3**: Click the "Other Plan" button to select the plan that suits you.
 
-![](../images/quick_start/10.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png)
 
 **Step 4**: If you choose a paid plan, proceed to the payment page to complete the transaction.
 
-![](../images/quick_start/11.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/11.png)
 
 **Step 5**: After completing the steps, the following topology diagram will appear, confirming the successful setup of the basic network.
 
-![](../images/quick_start/12.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/12.png)
 
 ## **Router node management**
 
 ### Add router nodes
 
 You can add more router nodes to the basic network to enrich your application.
-![](../images/quick_start/Add_router_nodes.gif)
-<!-- <video controls>
-  <source src="../images/quick_start/video/Add-router-nodes.mp4" type="video/mp4">
-</video> -->
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/Add_router_nodes.gif)
 
 ### Node renaming
 
@@ -139,15 +136,12 @@ To make the network clearer, we can set our favorite names for the nodes.
 ### Delete router nodes
 
 If the router node is no longer needed, we can delete it.
-![](../images/quick_start/Delete_router_nodes.gif)
-<!-- <video controls>
-  <source src="../images/quick_start/video/Delete-router-nodes.mp4" type="video/mp4">
-</video> -->
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/Delete_router_nodes.gif)
 
 ### Disable astrowarp services
 
 If you need to disable the astrowarp service on your router, you can turn off the virtual network connection in your router's details settings.
-![](../images/quick_start/Disable_astrowarp_services.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/Disable_astrowarp_services.gif)
 
 ## **Access permission settings**
 
@@ -171,7 +165,7 @@ By clicking on the connection, we can set the access permissions between nodes t
 
 You can also select and delete connections that are no longer needed.
 
-![](../images/quick_start/delete-line.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/delete-line.gif)
 
 ### Resource access permissions
 
@@ -180,14 +174,11 @@ You can add or delete resources through the details interface of the node.
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_add_resource.gif)
 
 Or you can quickly add resources through the + sign on the right of the node.
-![](../images/quick_start/sign_on_the.gif)
-<!-- <video controls>
-  <source src="../images/quick_start/video/sign-on-the-right-of-the-node.mp4" type="video/mp4">
-</video> -->
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/sign_on_the.gif)
 
 Note: You can view the IP address and MAC address in the router's management interface to verify the resources.
 
-![](../images/quick_start/13.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/13.png)
 
 #### Accessible address (Virtual IP)
 
@@ -231,7 +222,7 @@ In a few cases, the recommended server may be subject to some restrictions. If n
 
 ### Delete network
 
-![](../images/quick_start/delete_network.gif)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/delete_network.gif)
 
 ## **Use the AstroWarp Client**
 
@@ -243,7 +234,7 @@ Before start, You should create your network as described in the [Quick Start](.
 
 **Step 1:** Add share link in Astrowarp network
 
-![](../images/quick_start/15.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/15.png)
 
 **Step 2:** Set up share link
 
@@ -259,7 +250,7 @@ Before start, You should create your network as described in the [Quick Start](.
 
 **Use Internet Exit:**  Whether to allow the client to use the Internet exit
 
-**Accessible Router: ** List of routers to be accessed
+**Accessible Router**:  List of routers to be accessed
 
 
 
@@ -275,7 +266,7 @@ Join the Astrowarp network using the shared link in the client
 
 * Mobile phone
 
-![](../images/quick_start/17.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/17.png)
 
 
 ## **FAQ** 
