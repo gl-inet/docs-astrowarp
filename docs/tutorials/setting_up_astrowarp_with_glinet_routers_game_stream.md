@@ -4,6 +4,7 @@ Gaqme streaming allows you to play high-performance games on any device remotely
 <video controls>
   <source src="../images/quick_start/video/Remove-permissions.mp4" type="video/mp4">
 </video>
+
 ### **Ensure Your Host PCIs Ready for Remote Desktop**
 
 * Check Windows Version:
