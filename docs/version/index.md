@@ -1,3 +1,8 @@
+### V1.0.4 | 2025.1.26
+
+Fixed:
+
+User can't access internet when using apps connect network with none routers connected.
 
 ### V1.0.3 | 2025.1.24
 
