@@ -1,16 +1,54 @@
-V0.1.0 | 2024.11.22
 
-New Features:
-
-1. Join the AstroWarp network as a client.
-2. Enter share link can join network.
-3. Check network list that already joined.
-4. Open device VPN setting to use virtual network
-5. Access routers via virtual IP/Domain in network.
-6. Access resources via virtual IP/Domain in network.
-
-V0.6.1 | 2024.12.25
+### V1.0.3 | 2025.1.24
 
 Fixed:
 
-1. Some clients fail to connect due to third-party component issues.
+Optimize upgrade entrance.
+
+### V1.0.2 | 2025.1.20
+
+Fixed:
+
+AstroWarp server support KVM devices.
+
+### V1.0.1 | 2025.1.18
+
+Fixed:
+
+Support Stripe payment method.
+
+### V1.0.0 |  2025.1.15
+
+New Features:
+
+1.New create network flow.
+
+2.Redefine paid object.
+
+3.New network data plan.
+
+Fixed:
+
+Fix known bugs.
+    
+### V0.6.1 | 2024.12.25
+
+Fixed:
+
+Some clients fail to connect due to third-party component issues.
+   
+### V0.1.0 | 2024.11.22
+
+New Features:
+
+1.Join the AstroWarp network as a client.
+
+2.Enter share link can join network.
+
+3.Check network list that already joined.
+
+4.Open device VPN setting to use virtual network
+
+5.Access routers via virtual IP/Domain in network.
+
+6.Access resources via virtual IP/Domain in network.
