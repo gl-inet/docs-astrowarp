@@ -1,3 +1,5 @@
+# Setting Up AstroWarp with GL.iNet Routers: Work From Home
+
  This document will guide you on how to use AstroWarp's internet exit feature, allowing you to remotely work from anywhere using your company's IP address, just as if you were at your office workstation.
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/work_from_home/1.png)
@@ -6,7 +8,7 @@
 
 **Step 1:** Select a plan to create a network. The minimum required plan is the **Plus Plan**.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/work_from_home/2.png)
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png)
 
 **Step 2:** Set a network name of your choice, such as Work_From_Home.
 

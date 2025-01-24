@@ -41,7 +41,7 @@ To achieve this, AstroWarp offers a suite of security features, including:
     Key aspects include:
 
      * **End-to-End Encryption** : User data is encrypted using WireGuard, meaning even AstroWarp’s cloud node servers involved in data relay cannot decrypt communication content.
-     * **Metadata Handling** : When users utilize proprietary IP features through cloud nodes, AstroWarp only collects essential metadata, such as connection information, necessary for network service support. User internet traffic remains uninspected.
+     * **Metadata Processing** : When users utilize proprietary IP features through cloud nodes, AstroWarp only collects essential metadata, such as connection information, necessary for network service support. User internet traffic remains uninspected.
   
     Even in extreme scenarios (e.g., cloud node failures), AstroWarp maintains device-to-device connectivity through point-to-point (P2P) methods, ensuring high availability and user independence.
 

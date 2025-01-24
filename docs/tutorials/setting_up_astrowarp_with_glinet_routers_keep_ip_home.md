@@ -8,7 +8,7 @@ This document outlines how to use your home network as an internet exit while tr
 
 **Step 1:** Select a plan to create the network (available with Plus, Premium, and Elite plans).
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/2.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
 
 **Step 2:** Set a Network Name: Choose a preferred name for your network, such as  Keep_Home_IP.
 

@@ -1,3 +1,4 @@
+# Setting Up AstroWarp with GL.iNet Routers: Connection Aggregation
 
 This document will guide you in creating an Aggregated VPN link for internet access. By using an Aggregated VPN, users can enjoy a better online experience in certain scenarios.
 
@@ -7,7 +8,7 @@ This document will guide you in creating an Aggregated VPN link for internet acc
 
 **Step 1:** Choose a network plan that suits your needs. Please note that the connection aggregation service is available exclusively with the Premium and Elite plans.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/aggregation/2.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
 
 **Step 2:** Choose a preferred name for your network, such as "Connection_Aggregation".
 

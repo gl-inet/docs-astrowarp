@@ -6,7 +6,7 @@ Game streaming allows you to play high-performance games on any device remotely,
 
 **Step1:** Select a plan to create the network (available with all plans).
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/1.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
 
 **Step2:** Set a Network Name: Choose a preferred name for your network, such as  Game_Streaming.
 
@@ -53,7 +53,7 @@ While Windows Remote Desktop is effective for work-related tasks, using a dedica
 Detailed instructions for installing and configuring Sunshine can be found in this document: [Sunshine Documentation](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide){target="_blank"}.
 
 1. Download and Install Sunshine:
-	1. Go to the [Setup Page](https://docs.lizardbyte.dev/projects/sunshine/latest/about/setup.html){target="_blank"} to download the latest version.
+	1. Go to the [Setup Page](https://docs.lizardbyte.dev/projects/sunshine/latest/md_docs_2getting__started.html){target="_blank"} to download the latest version.
 	2. Install it on your gaming PC. You may need to reboot your PC after installation to complete the setup and enable controller emulation.
 
 2. Open the Configuration Page:
@@ -82,7 +82,7 @@ Detailed instructions for installing and configuring Sunshine can be found in th
     1. Sunshine has Steam and Remote Desktop pre-loaded for easy access.
 
 8. Further Assistance:
-    1. For more information or troubleshooting, refer to the Sunshine support documentation at [this link](https://docs.lizardbyte.dev/projects/sunshine/latest/about/overview.html){target="_blank"}.
+    1. For more information or troubleshooting, refer to the Sunshine support documentation at [this link](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html){target="_blank"}.
 
 ### Using GeForce Experience
 

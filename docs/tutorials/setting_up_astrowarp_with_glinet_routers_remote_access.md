@@ -1,6 +1,6 @@
 # Setting Up AstroWarp with GL.iNet Routers: Remote Access
 
-This document outlines the steps to create a remote access scenario that allows you to securely access your company's network resources, such as computers, NAS, printers, etc, from a remote location.
+This document outlines the steps to create a remote access scenario that allows you to securely access your company's network resources, such as computers, NAS, printers, etc,. from a remote location.
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/1.png){class="glboxshadow"}
 
@@ -8,7 +8,7 @@ This document outlines the steps to create a remote access scenario that allows 
 
 **Step 1:** Select a plan to create the network (available with all plans).
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/2.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
 
 **Step 2:** Set a Network Name: Choose a preferred name for your network, such as "Remote_Access".
 
@@ -16,7 +16,7 @@ This document outlines the steps to create a remote access scenario that allows 
 
 **Step 3:** Add the router located at your company to this network.
 
-![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/4.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
 
 **Step 4:** After creating the network, the routers added to the network will be associated by default, allowing them to communicate with each other. Please be aware that if you need to access the network resources linked to the router, you must click the "Add" button on the topology map to designate them as accessible resources. For security purposes, you can manage access permissions on the right-hand side of the interface and disable access from the company router to the travel router.
 

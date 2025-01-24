@@ -39,7 +39,7 @@
 
 * Check the [node access and resource access settings](../quick_start/index.md/#access-permission-settings) of the network topology map to confirm that the device is allowed to be accessed.
 
-* Check he firewall settings of the accessed device to ensure that the device is allowed to be accessed by the router.
+* Check the firewall settings of the accessed device to ensure that the device is allowed to be accessed by the router.
 
 * Try to restart the AstroWarp network.
 

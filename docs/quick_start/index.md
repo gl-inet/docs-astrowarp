@@ -25,11 +25,11 @@ If you are a new user, please complete the GL router connection and initial setu
 
 Please follow the steps below to enable Cloud Services before using AstroWarp:
 
-**Step 1:** Access the router's management interface ([http://192.168.8.1](http://192.168.8.1){target="_blank"}). In the left panel, navigate to CLOUD SERVICES → AstroWap. Click on "Get Started." A "Cloud Services" window will appear in the top-right corner. Click the "Enable" button to activate Cloud Services.
+**Step 1:** Access the router's management interface ([http://192.168.8.1](http://192.168.8.1){target="_blank"}). In the left panel, navigate to CLOUD SERVICES → AstroWarp. Click on "Get Started." A "Cloud Services" window will appear in the top-right corner. Click the "Enable" button to activate Cloud Services.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/1.png){class="glboxshadow"}
 
-**Step 2**: Log in to your GL account.
+**Step 2**: Log in to your glinet account.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/2.png){class="glboxshadow"}
 
@@ -41,7 +41,7 @@ If you don’t have an account yet, you’ll need to create one by clicking the 
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/4.png){class="glboxshadow"}
 
-Note: Every router in the network must be signed in to the GL.iNet account.
+Note: Every router in the network must be signed in to the glinet account.
 
 ### Connect device to the router
 
@@ -55,7 +55,7 @@ In many cases, our device is already in the existing network. At this time, we j
 
 ### Log in to your account
 
-Use your GL.iNet account to log in to AstroWarp.
+Use your glinet account to log in to AstroWarp.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/7.png){class="glboxshadow"}
 
@@ -188,6 +188,9 @@ In a few cases, the recommended server may be subject to some restrictions. If n
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/delete_network.gif)
 
+Note: Only free network can be deleted.
+
+
 ## Use the AstroWarp Client
 
 ### Preparation
@@ -218,7 +221,7 @@ Before start, You should create your network as described in the [Quick Start](.
 
 Join the Astrowarp network using the shared link in the client
 
-* windows
+* Windows
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/use_app/astrowarp-app-windows-add-link.png){class="glboxshadow"}
 
