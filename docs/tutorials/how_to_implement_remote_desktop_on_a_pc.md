@@ -8,7 +8,7 @@ Please follow the guide here to enable remote desktop on your PC: [Enable Remote
 
 ## Find the Username
 
-Fellow the guide below to find the username for remote connection:
+Follow the guide below to find the username for remote connection:
 
 1. Press the Windows key + I to open the Settings app.
 2. Click on "Accounts".
