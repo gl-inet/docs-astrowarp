@@ -1,3 +1,25 @@
+### V1.1.0 |  2025.3.10
+
+New Features:
+
+1.Free Plan Network support internet exit fuction.
+
+2.Support P2P network.
+
+3.New login UI.
+
+4.Sharing link can be edit.
+
+5.Add real ip as accessible resource.
+
+6.New astrowarp icon.
+
+Fixed:
+
+1.Fix some situation that caused resources can not be access.
+
+2.Optimize cloud gateway naming logic.
+
 ### V1.0.4 | 2025.1.26
 
 Fixed:
