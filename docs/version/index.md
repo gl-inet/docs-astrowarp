@@ -8,7 +8,7 @@ New Features:
 
 3.New login UI.
 
-4.Sharing link can be edit.
+4.Sharing link can be edited.
 
 5.Add real ip as accessible resource.
 
