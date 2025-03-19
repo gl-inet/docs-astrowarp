@@ -1,3 +1,16 @@
+### V1.2.0 |  2025.3.19
+
+New Features:
+
+1.0.9 GetPlus Spring Sale.
+
+2.New coupon UI.
+
+Fixed:
+
+1.Optimize the release of cloud gateway resources after expiration, without displaying related IPs.
+
+
 ### V1.1.0 |  2025.3.10
 
 New Features:
