@@ -1,3 +1,12 @@
+### V1.2.3 |  2025.4.2
+
+Fixed:
+
+1.When connecting a device to an existing network, other features like VPNs do not close immediately.
+
+2.When the Web interface forwarding node is set to Unset by the router, the global network configuration might not be actively refreshed.
+
+
 ### V1.2.0 |  2025.3.19
 
 New Features:
