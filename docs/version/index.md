@@ -1,3 +1,10 @@
+### V1.2.4 |  2025.4.10
+
+Optimization:
+
+1.Optimize server performance.
+
+
 ### V1.2.3 |  2025.4.2
 
 Fixed:
