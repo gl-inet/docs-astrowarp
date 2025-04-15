@@ -1,3 +1,26 @@
+### V1.3.0 |  2025.4.15
+
+New Features:
+
+1.Support new SDK AstroWarp feature.
+
+2.Premiu Plan & Elite Plan support more server location which cover Plus plan.
+
+3.After the account is cancelled, all devices associated with the account will be forcibly unbound.
+
+4.Update the pictures of BE9300 for Astowarp.
+
+5.Optimize the display of equipment online/offline and VPN configuration status after offline and closing the VPN.
+
+6.Optimize traffic statistics and add display of statistics by hour and day.
+
+Fixed:
+
+1.Fix some security issues.
+
+2.Bind any KVM device through MAC address binding.
+
+
 ### V1.2.4 |  2025.4.10
 
 Optimization:
