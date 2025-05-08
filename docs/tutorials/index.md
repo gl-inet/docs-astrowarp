@@ -8,8 +8,6 @@
 
 [Setting Up AstroWarp with GL.iNet Routers: Work From Home](work_from_home.md)
 
-<!-- [Setting Up AstroWarp with GL.iNet Routers: Connection Aggregation](setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md) -->
-
 [How to Implement Remote Desktop on a PC](how_to_implement_remote_desktop_on_a_pc.md)
 
 
