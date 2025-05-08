@@ -18,6 +18,9 @@ theme:
 # Plugins
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+        'tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md': 'https://docs.astrowarp.net/en/'
 
 # Customization
 extra:
