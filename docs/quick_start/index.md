@@ -8,13 +8,13 @@ Router Compatibility: Confirm that your router model falls under the following l
 
 | Supported Models              | Version         | Firmware Download                                                                     |
 |-------------------------------|-----------------|---------------------------------------------------------------------------------------|
-| Spitz AX (GL-X3000)           | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/x3000/?type=beta){target="_blank"}      |
-| Puli AX (GL-XE3000)           | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/xe3000/?type=beta){target="_blank"}     |
+| Spitz AX (GL-X3000)           | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/x3000/?type=stable){target="_blank"}  |
+| Puli AX (GL-XE3000)           | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/xe3000/?type=stable){target="_blank"} |
 | Beryl AX (GL-MT3000)          | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/mt3000/stable){target="_blank"}       |
 | Flint 2 (GL-MT6000)           | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/mt6000/stable){target="_blank"}       |
 | Brume 2 (GL-MT2500/GL-MT2500A)| 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/mt2500/stable){target="_blank"}       |
-| Flint (GL-AX1800)             | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/ax1800/beta){target="_blank"}           |
-| Slate AX (GL-AXT1800)         | 4.7.0 or higher | [Beta Firmware](https://dl.gl-inet.com/router/axt1800/beta){target="_blank"}          |
+| Flint (GL-AX1800)             | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/ax1800/stable){target="_blank"}       |
+| Slate AX (GL-AXT1800)         | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}      |
 | Slate 7 (GL-BE3600)           | 4.7.0 or higher | [Stable Firmware](https://dl.gl-inet.com/router/be3600/stable){target="_blank"}       |
 | Flint 3 (GL-BE9300)           | coming soon     |                                                                                       |
 
