@@ -73,7 +73,7 @@ Use your glinet account to log in to AstroWarp.
 
 **Step 3**: Click the "Other Plan" button to select the plan that suits you.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.jpg){class="glboxshadow"}
 
 **Step 4**: If you choose a paid plan, proceed to the payment page to complete the transaction.
 
