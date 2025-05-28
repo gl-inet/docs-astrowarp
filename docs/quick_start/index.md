@@ -176,22 +176,17 @@ Exit nodes are not used for any router nodes by default, so we need to set wheth
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_use_exit_node.gif)
 
-## Cloud Node Management
-
-### Switch Cloud Node Location
+## Switch Cloud Node Location
 
 In a few cases, the recommended server may be subject to some restrictions. If necessary, you can switch to a different server location.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_exchange.gif)
 
-## Network Management
-
-### Delete network
+## Delete network
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/delete_network.gif)
 
 Note: Only free network can be deleted.
-
 
 ## Use the AstroWarp Client
 
@@ -199,7 +194,7 @@ Note: Only free network can be deleted.
 
 Before start, You should create your network as described in the [Quick Start](../quick_start/index.md) and download the appropriate client application [here](https://www.astrowarp.net/download).
 
-## Add share link in network
+### Add share link in network
 
 **Step 1:** Add share link in Astrowarp network
 
@@ -219,7 +214,7 @@ Before start, You should create your network as described in the [Quick Start](.
 
 **Accessible Router**:  List of routers to be accessed
 
-## Join network in client
+### Join network in client
 
 Join the Astrowarp network using the shared link in the client
 
@@ -231,12 +226,14 @@ Join the Astrowarp network using the shared link in the client
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/17.png){class="glboxshadow"}
 
-## FAQ
+If you want to quickly apply the modified configuration on the client, exit and reopen the client to automatically re-pull the latest configuration.
 
-Q: How can I quickly apply the modified configuration on the client?
+---
 
-A: Exit and reopen the client to automatically re-pull the latest configuration
+Related Articles:
 
+- [Scenario Usage Guide](../tutorials/index.md)
+- [FAQ](../faq/index.md){target="_blank"}
 ___
 
 Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.
