@@ -8,6 +8,7 @@ Router Compatibility: Confirm that your router model falls under the following l
 
 | Supported Models              | Version         |                                                                                       |
 |-------------------------------|-----------------|---------------------------------------------------------------------------------------|
+| Flint 3 (GL-BE9300)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/be9300/stable){target="_blank"}     |
 | Slate 7 (GL-BE3600)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/be3600/stable){target="_blank"}     |
 | Spitz AX (GL-X3000)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/x3000/stable){target="_blank"}      |
 | Puli AX (GL-XE3000)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/xe3000/stable){target="_blank"}     |
@@ -17,7 +18,6 @@ Router Compatibility: Confirm that your router model falls under the following l
 | Flint (GL-AX1800)             | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/ax1800/stable){target="_blank"}     |
 | Slate AX (GL-AXT1800)         | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}    |
 | Opal (GL-SFT1200)             | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
-| Flint 3 (GL-BE9300)           | coming soon     |                                                                                       |
 
 ### Router Connection and Initial Setup
 
