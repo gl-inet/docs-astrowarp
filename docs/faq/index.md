@@ -17,13 +17,12 @@
 ### **What should I do if I cannot access Remote Desktop after following the setup steps?**
 
 * First, ensure you are using the virtual IP to access Remote Desktop and that the username and password are correct. If the issue persists, check the firewall settings to ensure that permissions for the Remote Desktop application are properly configured.
-  
+
 ---
 
 ### **What should I do if I cannot ping after following the setup steps?**
 
 * Make sure you are using the virtual IP for access and that the username and password are correct. If the issue persists, check the firewall settings on the device you are trying to access.
-
 
 ---
 
@@ -76,6 +75,18 @@
 * Try to restart the AstroWarp network.
 
 * Try to [disable the AstroWarp](../quick_start/index.md/#disable-astrowarp-services) service on the router.
+
+---
+
+### **When the subscription expires, will the service stop working immediately, or will there be throttling/reduced speed?**
+
+The service will stop working immediately. 
+
+---
+
+### **Can I purchase additional data packs to extend usage within the same subscription period?**
+
+No. Currently, there are no additional data packs available to extend usage within the same subscription period.
 
 ---
 
