@@ -4,13 +4,11 @@ This document outlines how to use your home network as an internet exit while tr
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/1.png){class="glboxshadow"}
 
-## Creating the Network
+**Step 1:** Select a plan to create the network.
 
-**Step 1:** Select a plan to create the network (available with Plus, Premium, and Elite plans).
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.jpg){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
-
-**Step 2:** Set a Network Name: Choose a preferred name for your network, such as  Keep_Home_IP.
+**Step 2:** Set a name for your network, such as "Keep_Home_IP".
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/3.png){class="glboxshadow"}
 
@@ -20,11 +18,11 @@ This document outlines how to use your home network as an internet exit while tr
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/11.png){class="glboxshadow"}
 
-**Step 4:** Set the internet exit to the home router.
+**Step 4:** Set your home router as the internet exit.
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/6.png){class="glboxshadow"}
 
-**Step 5:** Click the "+" icon in the top right corner of the interface to add your device as a client to the network. Configure the client to access the home router and use it as the internet exit.
+**Step 5:** Click the "+" icon in the top right corner of the page to add your device as a client to the network. Configure the client to access the home router and use it as the internet exit.
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/keep_ip_home/7.png){class="glboxshadow"}
 
