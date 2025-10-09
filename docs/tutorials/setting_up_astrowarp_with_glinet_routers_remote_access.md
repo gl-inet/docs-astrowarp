@@ -4,13 +4,11 @@ This document outlines the steps to create a remote access scenario that allows 
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/1.png){class="glboxshadow"}
 
-## Creating the Network
+**Step 1:** Select a plan to create your network.
 
-**Step 1:** Select a plan to create the network (available with all plans).
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.jpg){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
-
-**Step 2:** Set a Network Name: Choose a preferred name for your network, such as "Remote_Access".
+**Step 2:** Set a name for your network, such as "Remote_Access".
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/3.png){class="glboxshadow"}
 
@@ -18,13 +16,15 @@ This document outlines the steps to create a remote access scenario that allows 
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/4.png){class="glboxshadow"}
 
-**Step 4:** After creating the network, the routers added to the network will be associated by default, allowing them to communicate with each other. Please be aware that if you need to access the network resources linked to the router, you must click the "Add" button on the topology map to designate them as accessible resources. For security purposes, you can manage access permissions on the right-hand side of the interface and disable access from the company router to the travel router.
+**Step 4:** After creating the network, the routers added to the network will be associated by default, allowing them to communicate with each other. 
+
+Please note that if you need to access the network resources linked to the router, click the "Add" button on the topology map to designate them as accessible resources. For security purposes, you can manage access permissions on the right-hand side of the page.
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/5.png){class="glboxshadow"}
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/6.png){class="glboxshadow"}
 
-**Step 5:** Set the internet exit to the company router, and configure the travel router and devices to connect through it. This allows you to remotely access services like NAS or GitLab anytime using the company router's IP address.
+**Step 5:** Set the company router as the internet exit, and configure the travel router and devices to connect through it. This allows you to remotely access services like NAS or GitLab anytime using the company router's virtual IP address.
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/remote_access/7.png){class="glboxshadow"}
 
