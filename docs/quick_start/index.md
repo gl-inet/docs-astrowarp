@@ -19,59 +19,59 @@ Router Compatibility: Confirm that your router model falls under the following l
 | Slate AX (GL-AXT1800)         | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}    |
 | Opal (GL-SFT1200)             | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
 
-### Router Connection and Initial Setup
+### Router initial setup
 
-If you are a new user, please complete the GL router connection and initial setup following the [tutorial](https://docs.gl-inet.com/router/en/4/faq/first_time_setup/){target="_blank"} below before starting the configuration.
+To begin with, please complete the GL.iNet router initial setup by following [this tutorial](https://docs.gl-inet.com/router/en/4/faq/first_time_setup/){target="_blank"}.
 
-### Enable Cloud Services
+### Enable Cloud services
 
-Please follow the steps below to enable Cloud Services before using AstroWarp.
+Please follow the steps below to enable Cloud services before using AstroWarp.
 
-**Step 1:** Access the router's management interface ([http://192.168.8.1](http://192.168.8.1){target="_blank"}). In the left panel, navigate to CLOUD SERVICES -> AstroWarp. Click on "Get Started." A "Cloud Services" window will appear in the top-right corner. Click the "Enable" button to activate Cloud Services.
+**Step 1:** Log in to the router's web admin panel ([http://192.168.8.1](http://192.168.8.1){target="_blank"}) and navigate to CLOUD SERVICES -> AstroWarp. Click on **Get Started**. A Cloud Services window will appear in the top right corner. Click **Enable** to activate Cloud Services.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/1.png){class="glboxshadow"}
+![enable cloud service](https://static.gl-inet.com/docs/astrowarp/quick_start/1.png){class="glboxshadow"}
 
-**Step 2**: Log in to your glinet account.
+**Step 2**: Log in with your glinet account.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/2.png){class="glboxshadow"}
+![log in cloud](https://static.gl-inet.com/docs/astrowarp/quick_start/2.png){class="glboxshadow gl-60-desktop"}
 
-If you don’t have an account yet, create one by clicking the "Sign up" button and complete the login process.
+If you don't have an account yet, click **Sign Up** to create one and complete the login process.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/3.png){class="glboxshadow"}
+![create account](https://static.gl-inet.com/docs/astrowarp/quick_start/3.png){class="glboxshadow gl-80-desktop"}
 
-**Step 3**: Click the "Get Started" button to open AstroWarp.
+**Step 3**: Click **Get Started** to enalbe AstroWarp.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/4.png){class="glboxshadow"}
+![enable astrowarp](https://static.gl-inet.com/docs/astrowarp/quick_start/4.png){class="glboxshadow"}
 
-Note: Every router in the network must be logged in to the glinet account.
+Note: Each router in your AstroWarp network must be logged in to the same glinet account.
 
 ### Connect device to the router
 
-If you are configuring the router for the first time, we recommend connecting your device to its LAN port or Wi-Fi, which is suitable for most scenarios.
+If you are configuring your router for the first time, we recommend connecting the devices that need to be added to the same AstroWarp network to the router's LAN port or Wi-Fi, which is suitable for most scenarios.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/router_1.jpg){class="glboxshadow"}
+![topology](https://static.gl-inet.com/docs/astrowarp/quick_start/router_1.jpg){class="glboxshadow"}
 
-If your device is already in the existing network, you just need to add the router to the existing network. (Notice: Only applies to the case where the device is only used as the accessed end or the router is used as the exit node)
+If your devices are already in the existing network, simply add the router to the existing network. (Note: It only applies to the case where the device is only used as the accessed terminal or the router is used as the exit node.)
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/router_2.jpg){class="glboxshadow"}
+![topology](https://static.gl-inet.com/docs/astrowarp/quick_start/router_2.jpg){class="glboxshadow"}
 
-### Log in to your account
+### Log in to AstroWarp
 
 Use your glinet account to log in to AstroWarp.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/7.png){class="glboxshadow"}
+![log in AstroWarp](https://static.gl-inet.com/docs/astrowarp/quick_start/7.png){class="glboxshadow gl-60-desktop"}
 
-## Creating the Network
+## Creating Network
 
-**Step 1**: Set a Network Name: Choose a name for your network, such as "mynet".
+**Step 1**: Set a Network name.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/8.jpg){class="glboxshadow"}
 
-**Step 2**: Select your server location, router, and plan type.
+**Step 2**: Select your server location, router, and plan.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/9.png){class="glboxshadow"}
 
-**Step 3**: Click the "Other Plan" button to select the plan that suits you.
+**Step 3**: Select the plan that suits you.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.jpg){class="glboxshadow"}
 
@@ -83,7 +83,7 @@ Use your glinet account to log in to AstroWarp.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/12.png){class="glboxshadow"}
 
-## Router node management
+## Router Node Management
 
 ### Add router nodes
 
@@ -103,13 +103,13 @@ If a router node is no longer needed, you can delete it.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/Delete_router_nodes.gif)
 
-### Disable AstroWarp services
+### Disable AstroWarp service
 
-If you need to disable the AstroWarp service on your router, you can turn off the virtual network connection in your router's details settings.
+If you need to disable the AstroWarp service on your router, you can disable the virtual network connection in your router's details settings.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/Disable_astrowarp_services.gif)
 
-## Access permission settings
+## Access Permission Settings
 
 Node access and resource access constitute the permission control mechanism of AstroWarp, and the device is only allowed to access if both permissions are set correctly.
 
@@ -125,7 +125,7 @@ Click on the line between two nodes and set access permissions through the permi
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_permission_setting.gif)
 
-**Notice:** when you try to connect a router to a cloud node, it means that the current router uses the cloud node as the aggregate VPN exit. Currently, only some servers support the aggregate VPN function.
+**Note:** When you try to connect a router to a cloud node, it means that the current router uses the cloud node as the VPN exit. 
 
 #### Remove permissions
 
@@ -159,7 +159,7 @@ iptables -t nat -I POSTROUTING -d 10.0.2.3/32 -j DNAT --to-destination 192.168.9
 
 The upper limit of virtual IP allocation is 254. If this number is exceeded, you need to delete some unused or infrequently used resources.
 
-#### Domain Name
+#### Domain name
 
 You can set a domain name for **local** access for any resource. The domain name suffix is always atwp.net. The fixed suffix is for easier certificate issuance.
 
