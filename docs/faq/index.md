@@ -26,14 +26,6 @@
 
 ---
 
-### **Why is there no significant increase in speed with connection aggregation?**
-
-* Check if your speed has already reached the physical limit. For Spitz AX (GL-X3000) and Puli AX (GL-XE3000) devices, the aggregated physical limit is around 300 Mbps.
-
-* The speed aggregation feature may not work effectively in scenarios with significant differences in link quality, such as bandwidth and latency. We do not recommend using Ethernet and cellular networks for aggregated connections.
-
----
-
 ### **Remote access failed**
 
 * Check the [node access and resource access settings](../quick_start/index.md/#access-permission-settings) of the network topology map to confirm that the device is allowed to be accessed.
