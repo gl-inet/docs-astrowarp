@@ -2,13 +2,13 @@
 
 Game streaming allows you to play high-performance games on any device remotely, whether on a weaker PC, laptop, or mobile device. This guide will help you set up remote desktop streaming for games using Windows Remote Desktop.
 
-## Creating the Network
+## Creating Network
 
-**Step1:** Select a plan to create the network (available with all plans).
+**Step1:** Select a plan to create the network.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.jpg){class="glboxshadow"}
 
-**Step2:** Set a Network Name: Choose a preferred name for your network, such as  Game_Streaming.
+**Step2:** Set a name for your network, such as "Game_Streaming".
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/2.png){class="glboxshadow"}
 
@@ -22,17 +22,17 @@ Game streaming allows you to play high-performance games on any device remotely,
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/5.png){class="glboxshadow"}
 
-**Step5:** Add the devices you'll use to play remotely, such as phones, tablets, or other devices, to the network as clients.
+**Step5:** Add the devices you'll use to play games remotely, such as phones, tablets, or other devices, into the network as clients.
 
 ![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/6.png){class="glboxshadow"}
 
-## Install and Configure a Game Streaming Client
+## Using Game Streaming App
 
 While Windows Remote Desktop is effective for work-related tasks, using a dedicated game streaming app can offer significantly better performance for gaming. Two recommended options are **Sunshine** and **GeForce Experience**.
 
 ### Host Gaming PC Requirements
 
-#### For Sunshine:
+**For Sunshine**
 
 * **GPU:** Any modern GPU from AMD, NVIDIA, or Intel.
 * **Operating System:**
@@ -40,7 +40,7 @@ While Windows Remote Desktop is effective for work-related tasks, using a dedica
     * macOS 12 and newer (**experimental**).
     * Linux: Debian 11, Ubuntu 22.04, Fedora 38, or newer.
 
-#### For GeForce Experience:
+**For GeForce Experience**
 
 * **Operating System:** Windows 10 or 11 (**Windows 7 and 8 may be supported**).
 * **GPU:** NVIDIA GeForce GTX/RTX 600+ series GPU or NVIDIA Quadro GPU (Kepler series or later).
@@ -48,9 +48,9 @@ While Windows Remote Desktop is effective for work-related tasks, using a dedica
 * **Display:** A 720p or higher display (or headless display dongle) connected to the NVIDIA GPU.
 * **Network Speed:** 5 Mbps or higher upload speed (only required for streaming outside your house).
 
-## Sunshine Installation and Configuration Guide
+### Sunshine Installation and Configuration Guide
 
-Detailed instructions for installing and configuring Sunshine can be found in this document: [Sunshine Documentation](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide){target="_blank"}.
+For detailed instructions on installing and configuring Sunshine, please refer to [Sunshine Documentation](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide){target="_blank"}.
 
 1. Download and Install Sunshine:
 	1. Go to the [Setup Page](https://docs.lizardbyte.dev/projects/sunshine/latest/md_docs_2getting__started.html){target="_blank"} to download the latest version.
@@ -84,7 +84,7 @@ Detailed instructions for installing and configuring Sunshine can be found in th
 8. Further Assistance:
     1. For more information or troubleshooting, refer to the Sunshine support documentation at [this link](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html){target="_blank"}.
 
-### Using GeForce Experience
+### GeForce Experience Installation and Configuration Guide
 
 1. Install GeForce Experience:
     1. Download and install the GeForce Experience software from NVIDIA on your gaming PC. After installation, you may need to reboot your PC to complete the setup.
