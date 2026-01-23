@@ -17,8 +17,10 @@ Ensure that your router model and firmware support AstroWrap.
 | Brume 2 (GL-MT2500/GL-MT2500A)| 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt2500/stable){target="_blank"}     |
 | Beryl AX (GL-MT3000)          | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt3000/stable){target="_blank"}     |
 | Slate AX (GL-AXT1800)         | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}    |
-| Opal (GL-SFT1200)             | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
+| Opal (GL-SFT1200)*            | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
 | Spitz Plus (GL-X2000)         | 4.8.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/x2000/beta){target="_blank"}        |
+
+*Opal (GL-SFT1200) does not support setting the Cloud Gateway as an Exit node.
 
 ### Router initial setup
 
