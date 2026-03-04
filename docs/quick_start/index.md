@@ -8,6 +8,10 @@ Ensure that your router model and firmware support AstroWrap.
 
 | Supported Models              | Version         |                                                                                       |
 |-------------------------------|-----------------|---------------------------------------------------------------------------------------|
+| Mudi 7 (GL-E5800)             | 4.8.0 or higher |
+| Beryl 7 (GL-MT3600BE)         | 4.8.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt3600be/stable){target="_blank"}   |
+| Brume 3 (GL-MT5000)           | 4.8.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt5000/stable){target="_blank"}     |
+| Flint 3e (GL-BE6500)          | 4.8.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/be6500/stable){target="_blank"}     |
 | Flint 3 (GL-BE9300)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/be9300/stable){target="_blank"}     |
 | Slate 7 (GL-BE3600)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/be3600/stable){target="_blank"}     |
 | Spitz AX (GL-X3000)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/x3000/stable){target="_blank"}      |
