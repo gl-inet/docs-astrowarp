@@ -6,25 +6,25 @@
 
 Ensure that your router model and firmware support AstroWrap.
 
-| Supported Models              | Version         |                                                                                       |
-|-------------------------------|-----------------|---------------------------------------------------------------------------------------|
-| Mudi 7 (GL-E5800)             | 4.8.0 or higher |
-| Beryl 7 (GL-MT3600BE)         | 4.8.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt3600be/stable){target="_blank"}   |
-| Brume 3 (GL-MT5000)           | 4.8.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt5000/stable){target="_blank"}     |
-| Flint 3e (GL-BE6500)          | 4.8.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/be6500/stable){target="_blank"}     |
-| Flint 3 (GL-BE9300)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/be9300/stable){target="_blank"}     |
-| Slate 7 (GL-BE3600)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/be3600/stable){target="_blank"}     |
-| Spitz AX (GL-X3000)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/x3000/stable){target="_blank"}      |
-| Puli AX (GL-XE3000)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/xe3000/stable){target="_blank"}     |
-| Flint 2 (GL-MT6000)           | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt6000/stable){target="_blank"}     |
-| Flint (GL-AX1800)             | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/ax1800/stable){target="_blank"}     |
-| Brume 2 (GL-MT2500/GL-MT2500A)| 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt2500/stable){target="_blank"}     |
-| Beryl AX (GL-MT3000)          | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/mt3000/stable){target="_blank"}     |
-| Slate AX (GL-AXT1800)         | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}    |
-| Opal (GL-SFT1200)*            | 4.7.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
-| Spitz Plus (GL-X2000)         | 4.8.0 or higher | [Firmware Download](https://dl.gl-inet.com/router/x2000/beta){target="_blank"}        |
+| Supported Models              | Version                |
+|-------------------------------|------------------------|
+| Mudi 7 (GL-E5800)             | [4.8.0 or higher](https://dl.gl-inet.com/router/e5800/stable){target="_blank"}      |
+| Beryl 7 (GL-MT3600BE)         | [4.8.0 or higher](https://dl.gl-inet.com/router/mt3600be/stable){target="_blank"}   |
+| Brume 3 (GL-MT5000)           | [4.8.0 or higher](https://dl.gl-inet.com/router/mt5000/stable){target="_blank"}     |
+| Flint 3e (GL-BE6500)          | [4.8.0 or higher](https://dl.gl-inet.com/router/be6500/stable){target="_blank"}     |
+| Spitz Plus (GL-X2000)         | [4.8.0 or higher](https://dl.gl-inet.com/router/x2000/beta){target="_blank"}        |
+| Flint 3 (GL-BE9300)           | [4.7.0 or higher](https://dl.gl-inet.com/router/be9300/stable){target="_blank"}     |
+| Slate 7 (GL-BE3600)           | [4.7.0 or higher](https://dl.gl-inet.com/router/be3600/stable){target="_blank"}     |
+| Spitz AX (GL-X3000)           | [4.7.0 or higher](https://dl.gl-inet.com/router/x3000/stable){target="_blank"}      |
+| Puli AX (GL-XE3000)           | [4.7.0 or higher](https://dl.gl-inet.com/router/xe3000/stable){target="_blank"}     |
+| Flint 2 (GL-MT6000)           | [4.7.0 or higher](https://dl.gl-inet.com/router/mt6000/stable){target="_blank"}     |
+| Flint (GL-AX1800)             | [4.7.0 or higher](https://dl.gl-inet.com/router/ax1800/stable){target="_blank"}     |
+| Brume 2 (GL-MT2500/GL-MT2500A)| [4.7.0 or higher](https://dl.gl-inet.com/router/mt2500/stable){target="_blank"}     |
+| Beryl AX (GL-MT3000)          | [4.7.0 or higher](https://dl.gl-inet.com/router/mt3000/stable){target="_blank"}     |
+| Slate AX (GL-AXT1800)         | [4.7.0 or higher](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}    |
+| Opal (GL-SFT1200)*            | [4.7.0 or higher](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
 
-*Opal (GL-SFT1200) does not support setting the Cloud Gateway as an Exit node.
+***Note**: Opal (GL-SFT1200) does not support setting the Cloud Gateway as an Exit node.
 
 ### Router initial setup
 
