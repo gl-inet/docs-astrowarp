@@ -1,0 +1,48 @@
+name: Deploy Docs
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10.4"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build MkDocs site
+        run: mkdocs build --site-dir ./site
+
+      - name: Checkout target repo (docs-build-astrowarp)
+        uses: actions/checkout@v4
+        with:
+          repository: gl-inet/docs-build-astrowarp
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
+          path: docs-build-astrowarp
+
+      - name: Copy built files to en/
+        run: |
+          mkdir -p docs-build-astrowarp/en
+          rm -rf docs-build-astrowarp/en/*
+          cp -r site/. docs-build-astrowarp/en/
+
+      - name: Commit and push to docs-build-astrowarp
+        working-directory: docs-build-astrowarp
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add en/
+          git diff --cached --quiet || git commit -m "docs(astrowarp): update from gl-inet/docs-astrowarp@${{ github.sha }}"
+          git push
