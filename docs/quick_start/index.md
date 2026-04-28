@@ -8,6 +8,7 @@ Ensure that your router model and firmware support AstroWrap.
 
 | Supported Models              | Version                |
 |-------------------------------|------------------------|
+| Slate 7 Pro (GL-BE10000)      | [4.8.0 or higher](https://dl.gl-inet.com/router/be10000/stable){target="_blank"}    |
 | Mudi 7 (GL-E5800)             | [4.8.0 or higher](https://dl.gl-inet.com/router/e5800/stable){target="_blank"}      |
 | Beryl 7 (GL-MT3600BE)         | [4.8.0 or higher](https://dl.gl-inet.com/router/mt3600be/stable){target="_blank"}   |
 | Brume 3 (GL-MT5000)           | [4.8.0 or higher](https://dl.gl-inet.com/router/mt5000/stable){target="_blank"}     |
@@ -24,7 +25,13 @@ Ensure that your router model and firmware support AstroWrap.
 | Slate AX (GL-AXT1800)         | [4.7.0 or higher](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}    |
 | Opal (GL-SFT1200)*            | [4.7.0 or higher](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
 
-***Note**: Opal (GL-SFT1200) does not support setting the Cloud Gateway as an Exit node.
+**Note**: 
+
+1. Opal (GL-SFT1200) does not support setting the Cloud Gateway as an Exit node.
+
+2. Some models, such as the Flint 3 (GL-BE9300) and Slate 7 (GL-BE3600), now have AstroWarp integrated in the web Admin Panel, allowing quick device pairing and networking via dynamic codes without registration or login. See [here](https://docs.gl-inet.com/router/en/4/interface_guide/astrowarp/){target="_blank"} for details.
+
+    The integrated AstroWarp and standalone AstroWarp platform are incompatible and cannot be enabled at the same time.
 
 ### Router initial setup
 
@@ -78,9 +85,9 @@ Use your glinet account to log in to AstroWarp.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/9.png){class="glboxshadow"}
 
-**Step 3**: Select the plan that suits you.
+**Step 3**: Select your plan.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.jpg){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.jpg){class="glboxshadow" width="600"}
 
 **Step 4**: If you choose a paid plan, proceed to the payment page to complete the transaction.
 
