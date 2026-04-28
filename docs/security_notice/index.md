@@ -1,7 +1,5 @@
 # Security Notice
 
-## AstroWarp: Delivering High-Standard Security Through Cutting-Edge Technology
-
 AstroWarp provides users with high-standard security protection through robust encryption technology, flexible network isolation mechanisms, and distributed architecture design. Whether through point-to-point connections or cloud node transmissions, AstroWarp's core philosophy prioritizes the protection of user safety and privacy, ensuring network security and stability.
 
 To achieve this, AstroWarp offers a suite of security features, including:
@@ -10,7 +8,7 @@ To achieve this, AstroWarp offers a suite of security features, including:
 2. **Data Isolation Between Networks**: Ensures network separation between different users and devices.
 3. **End-to-End Encryption**: Safeguards data transmission with WireGuard-based encryption protocols.
 
-### Key Security Features
+## Key Security Features
 
 1. **Two-Step Verification**
 
@@ -52,8 +50,7 @@ To achieve this, AstroWarp offers a suite of security features, including:
     * **Single Point of Failure**: If a cloud node server in a specific region goes down, AstroWarp automatically switches to backup nodes in other regions.
     * **Network Instability**: When P2P connections are unstable, cloud nodes act as relays to maintain continuous communication.
    
-Currently, AstroWarp's cloud nodes span North America, Europe, and Asia. These regions operate with a non-shared state design, further enhancing fault tolerance and network resilience.
-
+    Currently, AstroWarp's cloud nodes span North America, Europe, and Asia. These regions operate with a non-shared state design, further enhancing fault tolerance and network resilience.
 ___
 
 Still have questions? Visit our [Community Forum](https://forum.gl-inet.com){target="_blank"}.

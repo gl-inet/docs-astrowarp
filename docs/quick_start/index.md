@@ -89,11 +89,9 @@ Use your glinet account to log in to AstroWarp.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/10.png){class="glboxshadow" width="600"}
 
-**Step 4**: If you choose a paid plan, proceed to the payment page to complete the transaction.
+If you choose a paid plan, proceed to the payment page to complete the transaction.
 
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/11.png){class="glboxshadow"}
-
-**Step 5**: Once the steps are completed, the following topology diagram will be displayed, confirming that the basic network has been set up successfully.
+**Step 4**: Once the steps are completed, the following topology diagram will be displayed, confirming that the basic network has been set up successfully.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/12.png){class="glboxshadow"}
 
