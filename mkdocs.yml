@@ -2,10 +2,10 @@ site_name: AstroWarp Docs
 site_description: Documentation for AstroWarp
 site_author: AstroWarp
 site_url: https://docs.astrowarp.net/en/
-site_dir: /root/docs-build-astrowarp/en/
-copyright: Copyright &copy; 2025 GL Intelligence, Inc
+site_dir: site
+copyright: Copyright &copy; 2026 GL Intelligence, Inc
 
-theme: 
+theme:
   name: material
   logo: images/astrowarp.svg
   custom_dir: overrides
@@ -15,14 +15,12 @@ theme:
     - navigation.top
   favicon: images/favicon.ico
 
-# Plugins
 plugins:
   - search
   - redirects:
       redirect_maps:
-        'tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md': 'https://docs.astrowarp.net/en/'
+        "tutorials/setting_up_astrowarp_with_glinet_routers_aggregation_vpn.md": "https://docs.astrowarp.net/en/"
 
-# Customization
 extra:
   social:
     - icon: fontawesome/solid/globe
@@ -34,17 +32,11 @@ extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css
   - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css
   - https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.css
-  # we can use the cdn or files
-  # - stylesheets/photoswipe.min.css
-  # - stylesheets/default-skin.min.css
   - stylesheets/extra.css
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js
   - https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.umd.js
-  # we can use the cdn or files
-  # - javascripts/photoswipe.min.js
-  # - javascripts/photoswipe-ui-default.min.js
   - javascripts/analytics.js
   - javascripts/extra.js
   - javascripts/cookieconsent.js
@@ -61,17 +53,17 @@ markdown_extensions:
   - admonition
 
 nav:
-  - What is AstroWarp : 
-    - Overview: index.md
-    - Quick Start: 
-      - Overview: quick_start/index.md
-    - Scenario Usage Guide:
-      - Overview: tutorials/index.md
-      - Remote Access: tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md
-      - Game Streaming: tutorials/game_stream.md
-      - Keep Your Home IP: tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md
-      - Work From Home: tutorials/work_from_home.md
-      - Remote Desktop: tutorials/how_to_implement_remote_desktop_on_a_pc.md
-    - Security Notice: security_notice/index.md
-    - FAQ: faq/index.md
-    - Version Update History: version/index.md
+  - What is AstroWarp:
+      - Overview: index.md
+      - Quick Start:
+          - Overview: quick_start/index.md
+      - Scenario Usage Guide:
+          - Overview: tutorials/index.md
+          - Remote Access: tutorials/setting_up_astrowarp_with_glinet_routers_remote_access.md
+          - Game Streaming: tutorials/game_stream.md
+          - Keep Your Home IP: tutorials/setting_up_astrowarp_with_glinet_routers_keep_ip_home.md
+          - Work From Home: tutorials/work_from_home.md
+          - Remote Desktop: tutorials/how_to_implement_remote_desktop_on_a_pc.md
+      - Security Notice: security_notice/index.md
+      - FAQ: faq/index.md
+      - Version Update History: version/index.md
