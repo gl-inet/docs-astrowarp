@@ -23,15 +23,11 @@ Ensure that your router model and firmware support AstroWrap.
 | Brume 2 (GL-MT2500/GL-MT2500A)| [4.7.0 or higher](https://dl.gl-inet.com/router/mt2500/stable){target="_blank"}     |
 | Beryl AX (GL-MT3000)          | [4.7.0 or higher](https://dl.gl-inet.com/router/mt3000/stable){target="_blank"}     |
 | Slate AX (GL-AXT1800)         | [4.7.0 or higher](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}    |
-| Opal (GL-SFT1200)*            | [4.7.0 or higher](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
+| Opal (GL-SFT1200)            | [4.7.0 or higher](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
 
-**Note**: 
+**Note**: Some models, such as the Flint 3 (GL-BE9300) and Slate 7 (GL-BE3600), now have AstroWarp integrated in the web Admin Panel, allowing quick device pairing and networking via dynamic codes without registration or login. See [here](https://docs.gl-inet.com/router/en/4/interface_guide/astrowarp/){target="_blank"} for details.
 
-1. Opal (GL-SFT1200) does not support setting the Cloud Gateway as an Exit node.
-
-2. Some models, such as the Flint 3 (GL-BE9300) and Slate 7 (GL-BE3600), now have AstroWarp integrated in the web Admin Panel, allowing quick device pairing and networking via dynamic codes without registration or login. See [here](https://docs.gl-inet.com/router/en/4/interface_guide/astrowarp/){target="_blank"} for details.
-
-    The integrated AstroWarp and standalone AstroWarp platform are incompatible and cannot be enabled at the same time.
+The integrated AstroWarp and standalone AstroWarp platform are incompatible and cannot be enabled at the same time.
 
 ### Router initial setup
 
@@ -41,7 +37,7 @@ To begin with, please complete the GL.iNet router initial setup by following [th
 
 Please follow the steps below to enable Cloud services before using AstroWarp.
 
-**Step 1:** Log in to the router's web admin panel ([http://192.168.8.1](http://192.168.8.1){target="_blank"}) and navigate to CLOUD SERVICES -> AstroWarp. Click on **Get Started**. A Cloud Services window will appear in the top right corner. Click **Enable** to activate Cloud Services.
+**Step 1:** Log in to the router's web admin panel ([http://192.168.8.1](http://192.168.8.1){target="_blank"}) and navigate to **CLOUD SERVICES** -> **AstroWarp**. Click on **Get Started**. A Cloud Services window will appear in the top right corner. Click **Enable** to activate Cloud Services.
 
 ![enable cloud service](https://static.gl-inet.com/docs/astrowarp/quick_start/1.png){class="glboxshadow"}
 
@@ -137,8 +133,6 @@ Click on the line between two nodes and set access permissions through the permi
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_permission_setting.gif)
 
-**Note:** When you try to connect a router to a cloud node, it means that the current router uses the cloud node as the VPN exit. 
-
 #### Remove permissions
 
 You can also select and delete connections that are no longer needed.
@@ -188,12 +182,6 @@ Router nodes can be used as Internet exits.
 Exit nodes are not used for any router nodes by default, so we need to set whether other routers use this exit.
 
 ![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_use_exit_node.gif)
-
-## Switch Cloud Node Location
-
-In a few cases, the recommended server may be subject to some restrictions. If necessary, you can switch to a different server location.
-
-![](https://static.gl-inet.com/docs/astrowarp/quick_start/astrowarp_node_exchange.gif)
 
 ## Delete network
 
