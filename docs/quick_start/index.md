@@ -8,6 +8,9 @@ Ensure that your router model and firmware support AstroWrap.
 
 | Supported Models              | Version                |
 |-------------------------------|------------------------|
+| Mango 2 (GL-MG1300)           | [4.10.0 or higher](https://dl.gl-inet.com/router/mg1300/stable){target="_blank"}    |
+| Flint 4 (GL-BE14000)          | [4.9.0 or higher](https://dl.gl-inet.com/router/be14000/stable){target="_blank"}    |
+| Beryl (GL-MT1300)             | [4.9.0 or higher](https://dl.gl-inet.com/router/be10000/stable){target="_blank"}    |
 | Slate 7 Pro (GL-BE10000)      | [4.8.0 or higher](https://dl.gl-inet.com/router/be10000/stable){target="_blank"}    |
 | Mudi 7 (GL-E5800)             | [4.8.0 or higher](https://dl.gl-inet.com/router/e5800/stable){target="_blank"}      |
 | Beryl 7 (GL-MT3600BE)         | [4.8.0 or higher](https://dl.gl-inet.com/router/mt3600be/stable){target="_blank"}   |
