@@ -17,7 +17,7 @@ Follow the guide below to find the username for remote connection:
     
     ![](https://static.gl-inet.com/docs/astrowarp/tutorials/rdp/windows_username.png){class="glboxshadow gl-50-desktop"}
 
-## Configure the PC as accessible resource in the Network
+## Configure the PC as resource
 
 The PC that needs to be remotely accessed is connected under the **MT3000-Host**. Click **MT3000-Host**, then click the **+** sign to add the PC as an accessible resource.
 

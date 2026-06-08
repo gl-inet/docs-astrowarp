@@ -1,8 +1,8 @@
 # Setting Up AstroWarp with GL.iNet Routers: Game Streaming
 
-Game streaming allows you to play high-performance games on any device remotely, whether on a weaker PC, laptop, or mobile device. This guide will help you set up remote desktop streaming for games using Windows Remote Desktop.
+Game streaming allows you to play high-performance games on any device remotely, whether on a weaker PC, laptop, or mobile device. You can set up remote desktop streaming for games using [Windows Remote Desktop](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c){target="_blank"}, or a dedicated game streaming app.
 
-## Creating Network
+## Using Windows Remote Desktop
 
 **Step1:** Select a plan to create the network.
 
@@ -48,63 +48,73 @@ While Windows Remote Desktop is effective for work-related tasks, using a dedica
 * **Display:** A 720p or higher display (or headless display dongle) connected to the NVIDIA GPU.
 * **Network Speed:** 5 Mbps or higher upload speed (only required for streaming outside your house).
 
-### Sunshine Installation and Configuration Guide
+### Sunshine
 
-For detailed instructions on installing and configuring Sunshine, please refer to [Sunshine Documentation](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide){target="_blank"}.
+Detailed instructions for installing and configuring Sunshine can be found on the [Sunshine documentation](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide){target="_blank"}.
 
-1. Download and Install Sunshine:
+1. Download and Install Sunshine.
 	1. Go to the [Setup Page](https://docs.lizardbyte.dev/projects/sunshine/latest/md_docs_2getting__started.html){target="_blank"} to download the latest version.
 	2. Install it on your gaming PC. You may need to reboot your PC after installation to complete the setup and enable controller emulation.
 
-2. Open the Configuration Page:
+2. Launch Sunshine.
 	1. Launch Sunshine. A configuration page will open in your web browser, and you may see a "this page is not secure" warning, which can be ignored.
 	2. If needed, you can manually access it via the tray menu option "Open Sunshine" or by visiting [https://localhost:47990](https://localhost:47990/){target="_blank"}.
 
-3. Create an Account:
-	1. Upon first launching Sunshine, you’ll be prompted to create an account. This is essential for securing access since others can connect to your PC if they access this interface.
+3. Create an Account.
+	
+    Upon first launching Sunshine, you'll be prompted to create an account. This is essential for securing access since others can connect to your PC if they access this interface.
    
 	![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/12.png){class="glboxshadow"}
 
-4. Connect with Moonlight:
+4. Connect with Moonlight.
 	1. Open Moonlight on your client device and ensure it is connected to the same network as your gaming PC.
 	2. Your gaming PC should automatically appear in the PC list. If it doesn’t, you can manually add it using its IP address.
 
-5. Pair the Devices:
+5. Pair Devices.
 	1. Select your gaming PC from the list to start pairing. Sunshine will send a notification to your host PC.
 	2. Follow the prompt to enter the PIN displayed in Moonlight on the pairing dialog and submit it.
 
-6. Test Streaming:
-    1. Try streaming a game or application from your gaming PC to verify that everything is working properly.
-	    
-        ![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/8.png){class="glboxshadow"}
-
-7. Access Pre-loaded Applications:
-    1. Sunshine has Steam and Remote Desktop pre-loaded for easy access.
-
-8. Further Assistance:
-    1. For more information or troubleshooting, refer to the Sunshine support documentation at [this link](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html){target="_blank"}.
-
-### GeForce Experience Installation and Configuration Guide
-
-1. Install GeForce Experience:
-    1. Download and install the GeForce Experience software from NVIDIA on your gaming PC. After installation, you may need to reboot your PC to complete the setup.
-
-2. Enable GameStream:
-    1. Open GeForce/Quadro Experience and click on the Settings (gear) icon. Navigate to the SHIELDsection and ensure the GameStream toggle is switched on (green). If the SHIELD tab is missing, refer to the [troubleshooting guide](https://github.com/moonlight-stream/moonlight-docs/wiki/Troubleshooting){target="_blank"}.
+6. Test Streaming.
     
-        ![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/10.png){class="glboxshadow"}
+    Try streaming a game or application from your gaming PC to verify that everything is working properly.
+	    
+    ![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/8.png){class="glboxshadow"}
 
-3.  Launch Moonlight:
-    1. Start the Moonlight app on your client device and ensure it is connected to the same network as your gaming PC. In most cases, your PC will appear automatically in the PC list after a few seconds. Click on your PC's entry to initiate pairing. 
+7. Access Pre-loaded Applications.
 
-4.  Pair Devices:
-    1. On your PC, enter the PIN displayed in Moonlight and confirm the pairing request.
+    Sunshine comes pre-loaded with Steam and the Remote Desktop. You can manually add other games and apps by following [Sunshine's guide](https://docs.lizardbyte.dev/projects/sunshine/latest/md_docs_2app__examples.html){target="_blank"} to adding apps. 
 
-5.  Test Streaming:
-    1. Stream a game or application to verify that everything is functioning correctly.
+8. Further Assistance.
+    
+    For more information or troubleshooting, refer to the [Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/latest/index.html){target="_blank"}.
 
-6. Manually Add Games (if necessary):
-    1. If a game doesn’t appear in Moonlight, you can manually add it in GeForce Experience. Alternatively, you can stream your desktop and launch any program directly.
+### GeForce Experience
+
+1. Install GeForce Experience.
+
+    Install the GeForce Experience software from NVIDIA on your gaming PC. Your PC may need a reboot after installation to finish setup.
+
+2. Enable GameStream.
+
+    Open GeForce/Quadro Experience and click on the Settings (gear) icon. Navigate to the SHIELDsection and ensure the GameStream toggle is switched on (green). If the SHIELD tab is missing, refer to the [troubleshooting guide](https://github.com/moonlight-stream/moonlight-docs/wiki/Troubleshooting){target="_blank"}.
+    
+    ![](https://static.gl-inet.com/docs/astrowarp/tutorials/game_stream/10.png){class="glboxshadow"}
+
+3. Launch Moonlight.
+
+    Start the Moonlight app on your client device and ensure it is connected to the same network as your gaming PC. In most cases, your PC will appear automatically in the PC list after a few seconds. Click on your PC's entry to initiate pairing. 
+
+4. Pair Devices.
+
+    On your PC, enter the PIN displayed in Moonlight and confirm the pairing request.
+
+5. Test Streaming.
+
+    Stream a game or application to verify that everything is functioning correctly.
+
+6. Manually Add Games (if necessary).
+
+    If a game doesn't appear in Moonlight, you can manually add it in GeForce Experience. Alternatively, you can stream your desktop and launch any program directly.
 
 ___
 
