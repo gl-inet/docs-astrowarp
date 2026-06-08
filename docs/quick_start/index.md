@@ -49,7 +49,7 @@ If you don't have an account yet, click **Sign Up** to create one and complete t
 
 ![create account](https://static.gl-inet.com/docs/astrowarp/quick_start/3.png){class="glboxshadow gl-80-desktop"}
 
-**Step 3**: Click **Get Started** to enalbe AstroWarp.
+**Step 3**: Click **Get Started** to enable AstroWarp.
 
 ![enable astrowarp](https://static.gl-inet.com/docs/astrowarp/quick_start/4.png){class="glboxshadow"}
 
