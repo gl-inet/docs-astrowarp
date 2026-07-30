@@ -10,15 +10,14 @@ Ensure that your router model and firmware support AstroWrap.
 |-------------------------------|------------------------|
 | Mango 2 (GL-MG1300)           | [4.10.0 or higher](https://dl.gl-inet.com/router/mg1300/stable){target="_blank"}    |
 | Flint 4 (GL-BE14000)          | [4.9.0 or higher](https://dl.gl-inet.com/router/be14000/stable){target="_blank"}    |
-| Beryl (GL-MT1300)             | [4.9.0 or higher](https://dl.gl-inet.com/router/be10000/stable){target="_blank"}    |
 | Slate 7 Pro (GL-BE10000)      | [4.8.0 or higher](https://dl.gl-inet.com/router/be10000/stable){target="_blank"}    |
 | Mudi 7 (GL-E5800)             | [4.8.0 or higher](https://dl.gl-inet.com/router/e5800/stable){target="_blank"}      |
 | Beryl 7 (GL-MT3600BE)         | [4.8.0 or higher](https://dl.gl-inet.com/router/mt3600be/stable){target="_blank"}   |
 | Brume 3 (GL-MT5000)           | [4.8.0 or higher](https://dl.gl-inet.com/router/mt5000/stable){target="_blank"}     |
-| Flint 3e (GL-BE6500)          | [4.8.0 or higher](https://dl.gl-inet.com/router/be6500/stable){target="_blank"}     |
-| Spitz Plus (GL-X2000)         | [4.8.0 or higher](https://dl.gl-inet.com/router/x2000/beta){target="_blank"}        |
 | Flint 3 (GL-BE9300)           | [4.7.0 or higher](https://dl.gl-inet.com/router/be9300/stable){target="_blank"}     |
+| Flint 3e (GL-BE6500)          | [4.8.0 or higher](https://dl.gl-inet.com/router/be6500/stable){target="_blank"}     |
 | Slate 7 (GL-BE3600)           | [4.7.0 or higher](https://dl.gl-inet.com/router/be3600/stable){target="_blank"}     |
+| Spitz Plus (GL-X2000)         | [4.8.0 or higher](https://dl.gl-inet.com/router/x2000/beta){target="_blank"}        |
 | Spitz AX (GL-X3000)           | [4.7.0 or higher](https://dl.gl-inet.com/router/x3000/stable){target="_blank"}      |
 | Puli AX (GL-XE3000)           | [4.7.0 or higher](https://dl.gl-inet.com/router/xe3000/stable){target="_blank"}     |
 | Flint 2 (GL-MT6000)           | [4.7.0 or higher](https://dl.gl-inet.com/router/mt6000/stable){target="_blank"}     |
@@ -26,9 +25,10 @@ Ensure that your router model and firmware support AstroWrap.
 | Brume 2 (GL-MT2500/GL-MT2500A)| [4.7.0 or higher](https://dl.gl-inet.com/router/mt2500/stable){target="_blank"}     |
 | Beryl AX (GL-MT3000)          | [4.7.0 or higher](https://dl.gl-inet.com/router/mt3000/stable){target="_blank"}     |
 | Slate AX (GL-AXT1800)         | [4.7.0 or higher](https://dl.gl-inet.com/router/axt1800/stable){target="_blank"}    |
-| Opal (GL-SFT1200)            | [4.7.0 or higher](https://dl.gl-inet.com/router/sft1200/beta){target="_blank"}      |
+| Opal (GL-SFT1200)             | [4.8.0 or higher](https://dl.gl-inet.com/router/sft1200/stable){target="_blank"}    |
+| Beryl (GL-MT1300)             | [4.9.0 or higher](https://dl.gl-inet.com/router/be10000/stable){target="_blank"}    |
 
-**Note**: Some models, such as the Flint 3 (GL-BE9300) and Slate 7 (GL-BE3600), now have AstroWarp integrated in the web Admin Panel, allowing quick device pairing and networking via dynamic codes without registration or login. See [here](https://docs.gl-inet.com/router/en/4/interface_guide/astrowarp/){target="_blank"} for details.
+**Note**: Some models now have AstroWarp integrated in the web Admin Panel, allowing quick device pairing and networking via dynamic codes without registration or login. See [here](https://docs.gl-inet.com/router/en/4/interface_guide/astrowarp/){target="_blank"} for details.
 
 The integrated AstroWarp and standalone AstroWarp platform are incompatible and cannot be enabled at the same time.
 
